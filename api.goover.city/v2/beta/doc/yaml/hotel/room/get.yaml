@@ -1,0 +1,39 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: hotel/room/get
+resource_url: hotel/room/get.php
+description: >
+    Get Room of the hotel based on the date range given by the user
+parameters:
+    - name : start
+      description: >
+          The date start
+      optional :Yes
+    - name : end
+      description: >
+          The date end
+      optional :Yes
+    - name : hotel
+      description: >
+          The hotel id.
+      optional :No
+
+sample_url: hotel/room/get.php
+sample_request: |
+
+
+sample_response: |
+
+
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":CODE
+    }

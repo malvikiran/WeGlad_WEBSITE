@@ -1,0 +1,61 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: hotel/admin/update
+resource_url: hotel/admin/update.php
+description: > 
+    Update Hotel Info
+parameters:
+    - name : token
+      description: >
+          The user Token
+      optional :No
+    - name : name
+      description: >
+          Name of Hotel
+      optional :No
+    - name : desc
+      description: >
+          Description
+      optional :No
+    - name : checkin
+      description: >
+          10:00:00
+      optional :No
+    - name : checkout
+      description: >
+          10:00:00
+      optional :No
+    - name : stars
+      description: >
+          The number of stars
+      optional :No
+    - name : idHotel
+      description: >
+          The id of the hotel
+      optional :No
+
+
+sample_url: hotel/admin/update.php
+sample_request: |
+
+
+sample_response: |  
+
+    {
+      "success":true,
+      "data":null
+      "status":200
+    }
+	
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":9
+    }

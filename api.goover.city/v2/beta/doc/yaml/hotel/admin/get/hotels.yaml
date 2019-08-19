@@ -1,0 +1,31 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: hotel/admin/get/hotels
+resource_url: hotel/admin/get/hotels.php
+description: > 
+    Get the hotels that the user can manage.
+parameters:
+    - name : token
+      description: >
+          The user Token
+      optional :No
+
+sample_url: hotel/admin/get/hotels.php
+sample_request: |
+
+
+sample_response: |
+
+
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":9
+    }

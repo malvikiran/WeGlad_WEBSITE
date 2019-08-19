@@ -1,0 +1,32 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: hotel/get/image/first
+resource_url: hotel/get/image/first.php
+description: > 
+    Get room types
+parameters:
+    - name : idHotel
+      description: >
+          The hotel id.
+      optional :No
+
+
+sample_url: user/get/image/first.php
+sample_request: |
+
+
+sample_response: |  
+
+	
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":CODE
+    }

@@ -1,0 +1,33 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: hotel/admin/add/stripe
+resource_url: hotel/admin/add/stripe.php
+description: > 
+    This is a little wired way to add a Stripe Account to the hotel, but it works. Call this page and here will appear the form to compile. When all the process will be done there will appear a cookie called "isDone" setted "true".
+    The best way to do this on web probably is with another window and a listener attached to his cookies
+parameters:
+    - name : token
+      description: >
+          The user Token
+      optional :No
+    - name : hotel
+      description: >
+          The id of the hotel
+      optional :No
+
+sample_url: hotel/admin/add/stripe.php
+sample_request: |
+
+
+sample_response: |  
+
+    Cookie:
+      isDone=true
+	
+sample_error: |
+

@@ -1,0 +1,47 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: hotel/room/admin/add/price
+resource_url: hotel/room/admin/add/price.php
+description: >
+    Add a price for  a range of dates.
+parameters:
+    - name : token
+      description: >
+          The user Token
+      optional :No
+    - name : idRoom
+      description: >
+          The id of the room
+      optional :No
+    - name : dataStart
+      description: >
+          Starting date
+      optional :No
+    - name : dataEnd
+      description: >
+          Ending date
+      optional :No
+    - name : cost
+      description: >
+          Base64 image
+      optional :No
+
+sample_url: hotel/room/admin/add/price.php
+sample_request: |
+
+
+sample_response: |
+
+
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":CODE
+    }

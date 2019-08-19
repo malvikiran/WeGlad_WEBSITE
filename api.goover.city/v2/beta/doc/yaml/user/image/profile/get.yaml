@@ -1,0 +1,30 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: GET
+resource: user/image/profile/get.php
+resource_url: user/image/profile/get.php
+description: > 
+    Get a user image
+parameters:
+    - name : token
+      description: >
+          The token of the request
+      optional :No
+    - name : userCode
+      description: >
+          The code of the user
+      optional :No
+
+
+sample_url: user/image/profile/get.php?token=token&userCode=USERCODE
+
+sample_response: |  
+
+    IMAGE
+	
+sample_error: |
+

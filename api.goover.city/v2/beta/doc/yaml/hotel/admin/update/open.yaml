@@ -1,0 +1,41 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: hotel/admin/update/open
+resource_url: hotel/admin/update/open.php
+description: >
+    Switch if the open of the hotel
+parameters:
+    - name : token
+      description: >
+          The user Token
+      optional :No
+    - name : idHotel
+      description: >
+          The id of the hotel
+      optional :No
+
+
+sample_url: hotel/admin/update/open.php
+sample_request: |
+
+
+sample_response: |  
+
+    {
+      "success":true,
+      "data":null
+      "status":200
+    }
+	
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":9
+    }

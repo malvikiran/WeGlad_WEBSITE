@@ -1,0 +1,48 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: user/add
+resource_url: user/add.php
+description: > 
+    Add account to the db
+parameters:
+    - name : name
+      description: >
+          The Name of the new user
+      optional :No
+    - name : email
+      description: >
+          The Email of the new user
+      optional :No
+    - name : password
+      description: >
+          The password of the new user
+      optional :No
+
+
+sample_url: user/add.php
+sample_request: |
+
+
+sample_response: |  
+
+    {
+      "success":true,
+      "data":
+        {
+          "token":"Token_VALUE"
+        },
+      "status":200
+    }
+	
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":CODE
+    }

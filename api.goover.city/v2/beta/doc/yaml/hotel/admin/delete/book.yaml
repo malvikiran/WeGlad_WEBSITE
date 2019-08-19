@@ -1,0 +1,44 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: hotel/admin/delete/book
+resource_url: hotel/admin/delete/book.php
+description: > 
+    Remove a book only if it's not payed
+parameters:
+    - name : token
+      description: >
+          The user Token
+      optional :No
+    - name : idBook
+      description: >
+          the id of the book to remove
+      optional :No
+    - name : idhotel
+      description: >
+          the id of the hotel
+      optional :No
+
+sample_url: hotel/admin/delete/book.php
+sample_request: |
+
+
+sample_response: |  
+
+    {
+      "success":true,
+      "data":null
+      "status":200
+    }
+	
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":9
+    }

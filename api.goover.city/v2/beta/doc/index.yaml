@@ -1,0 +1,122 @@
+# file_name : relative path is w.r.t. pub directory
+# absolute file path : make sure web server can read the file
+#
+---
+api1 :
+    name : "hotel/add/category/image.php"
+    description : >
+        Add account to the db
+    file_name : "yaml/hotel/add/category/image.yaml"
+api2 :
+    name : "hotel/admin/add/category/get.php"
+    description : >
+        Add account to the db
+    file_name : "yaml/hotel/admin/add/category/get.yaml"
+api3 :
+    name : "hotel/admin/add/room/add.php"
+    description : >
+        Add account to the db
+    file_name : "yaml/hotel/admin/add/room/add.yaml"
+api4 :
+    name : "hotel/admin/add/assign.php"
+    description : >
+        Add account to the db
+    file_name : "yaml/hotel/admin/add/assign.yaml"
+api5 :
+    name : "hotel/admin/add/book.php"
+    description : >
+        Add account to the db
+    file_name : "yaml/hotel/admin/add/book.yaml"
+api6 :
+    name : "hotel/admin/add/pics.php"
+    description : >
+        Add account to the db
+    file_name : "yaml/hotel/admin/add/pics.yaml"
+api7 :
+    name : "hotel/admin/add/stripe.php"
+    description : >
+        Add account to the db
+    file_name : "yaml/hotel/admin/add/stripe.yaml"
+api8 :
+    name : "hotel/admin/add/type.php"
+    description : >
+        Add account to the db
+    file_name : "yaml/hotel/admin/add/type.yaml"
+api9 :
+    name : "hotel/admin/delete/add.php"
+    description : >
+        Add account to the db
+    file_name : "yaml/hotel/admin/delete/add.yaml"
+api10 :
+    name : "hotel/admin/get/books.php"
+    description : >
+        Add account to the db
+    file_name : "yaml/hotel/admin/get/books.yaml"
+api11 :
+    name : "hotel/admin/get/hotels.php"
+    description : >
+        Add account to the db
+    file_name : "yaml/hotel/admin/get/hotels.yaml"
+api12 :
+    name : "hotel/admin/get/rooms.php"
+    description : >
+        Add account to the db
+    file_name : "yaml/hotel/admin/get/rooms.yaml"
+api13 :
+    name : "hotel/admin/get/roomsName.php"
+    description : >
+        Add account to the db
+    file_name : "yaml/hotel/admin/get/roomsName.yaml"
+api14 :
+    name : "hotel/admin/get/types.php"
+    description : >
+        Add account to the db
+    file_name : "yaml/hotel/admin/get/types.yaml"
+api15 :
+    name : "hotel/admin/reorder/image.php"
+    description : >
+        Add account to the db
+    file_name : "yaml/hotel/admin/reorder/image.yaml"
+api16 :
+    name : "hotel/admin/update/open.php"
+    description : >
+        Add account to the db
+    file_name : "yaml/hotel/admin/update/open.yaml"
+api17 :
+    name : "hotel/admin/update.php"
+    description : >
+        Add account to the db
+    file_name : "yaml/hotel/admin/update.yaml"
+
+
+api18 :
+    name : "user/add.php"
+    description : >
+        Add account to the db
+    file_name : "yaml/user/add.yaml"
+api19 :
+    name : "user/auth.php"
+    description : >
+        Check if a token is valid
+    file_name : "yaml/user/auth.yaml"
+api20 :
+    name : "user/login.php"
+    description : >
+        Do a login and retrieve the token
+    file_name : "yaml/user/login.yaml"
+api21 :
+    name : "user/image/profile/get.php"
+    description : >
+        Get a user image
+    file_name : "yaml/user/image/profile/get.yaml"
+api22 :
+    name : "user/image/profile/add.php"
+    description : >
+        Add image your image
+    file_name : "yaml/user/image/profile/add.yaml"
+api23 :
+    name : "user/image/profile/me.php"
+    description : >
+        Get my image
+    file_name : "yaml/user/image/profile/me.yaml"
+

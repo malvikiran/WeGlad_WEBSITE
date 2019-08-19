@@ -1,0 +1,37 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: GET
+resource: user/image/profile/add.php
+resource_url: user/image/profile/add.php
+description: > 
+    Add image your image
+parameters:
+    - name : token
+      description: >
+          The token of the request
+      optional :No
+    - name : image
+      description: >
+          Base64
+      optional :No
+
+sample_url: user/image/profile/add.php
+
+sample_response: |  
+
+    {
+      "success":true,
+      "data":null,
+      "status":200
+    }
+	
+sample_error: |
+    {
+      "success":false,
+      "data":null,
+      "status":0
+    }

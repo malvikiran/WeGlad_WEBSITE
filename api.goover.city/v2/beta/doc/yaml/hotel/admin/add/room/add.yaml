@@ -1,0 +1,68 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: hotel/admin/add/room/add
+resource_url: hotel/admin/add/room/add.php
+description: > 
+    Assign room to book
+parameters:
+    - name : token
+      description: >
+          The user Token
+      optional :No
+    - name : money
+      description: >
+          The cost of the room
+      optional :No
+    - name : name
+      description: >
+          The name of the room.
+      optional :Yes
+    - name : desc
+      description: >
+          The description of the room.
+      optional :No
+    - name : accessible
+      description: >
+          if it's accessible 0|1
+      optional :No
+    - name : adult
+      description: >
+          How many adult can stay in there
+      optional :No
+    - name : child
+      description: >
+          How many child can stay in there
+      optional :No
+    - name : rooms
+      description: >
+          A map of room names that will be the subRoom into the db {1:"Name",2:"Another Name"}
+      optional :No
+    - name : idHotel
+      description: >
+          The id of the hotel
+      optional :No
+
+sample_url: hotel/admin/add/room/add.php
+sample_request: |
+
+
+sample_response: |  
+
+    {
+      "success":true,
+      "data":null
+      "status":200
+    }
+	
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":CODE
+    }

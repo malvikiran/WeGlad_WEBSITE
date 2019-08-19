@@ -1,0 +1,60 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: hotel/room/admin/update
+resource_url: hotel/room/admin/update.php
+description: >
+    Update the Room
+parameters:
+    - name : token
+      description: >
+          The user Token
+      optional :No
+    - name : name
+      description: >
+          The name
+      optional :No
+    - name : desc
+      description: >
+          The description
+      optional :No
+    - name : money
+      description: >
+          The base cost of the room
+      optional :No
+    - name : accessible
+      description: >
+          is accessible "true"|"false"
+      optional :No
+    - name : adult
+      description: >
+          The number of adults
+      optional :No
+    - name : child
+      description: >
+          The number of children
+      optional :No
+    - name : roomId
+      description: >
+          The room id.
+      optional :No
+
+
+sample_url: hotel/room/admin/update.php
+sample_request: |
+
+
+sample_response: |
+
+
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":CODE
+    }

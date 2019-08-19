@@ -1,0 +1,40 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: hotel/room/admin/add/pics
+resource_url: hotel/room/admin/add/pics.php
+description: >
+    Update the Room
+parameters:
+    - name : token
+      description: >
+          The user Token
+      optional :No
+    - name : idRoom
+      description: >
+          The id of the room
+      optional :No
+    - name : image
+      description: >
+          Base64 image
+      optional :No
+
+
+sample_url: hotel/room/admin/add/pics.php
+sample_request: |
+
+
+sample_response: |
+
+
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":CODE
+    }

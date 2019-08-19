@@ -1,0 +1,47 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: hotel/admin/get/rooms
+resource_url: hotel/admin/get/rooms.php
+description: > 
+    Get the subRoom available for the specified range of date. is used to assign a subroom to a book
+parameters:
+    - name : token
+      description: >
+          The user Token
+      optional :No
+    - name : idRoom
+      description: >
+          The id of the room
+      optional :No
+    - name : dateStart
+      description: >
+          The start date
+      optional :No
+    - name : dateEnd
+      description: >
+          The end date
+      optional :No
+    - name : idBook
+      description: >
+          The id of the book that ask for the available room names to select
+      optional :No
+
+sample_url: hotel/admin/get/rooms.php
+sample_request: |
+
+
+sample_response: |  
+
+	
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":9
+    }

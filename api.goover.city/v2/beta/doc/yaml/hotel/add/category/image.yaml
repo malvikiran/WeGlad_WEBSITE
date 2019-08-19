@@ -1,0 +1,49 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: hotel/add/category/image
+resource_url: hotel/add/category/image.php
+description: > 
+    Add photo of a category (Like add a photo on "Bathroom" category for the hotel
+parameters:
+    - name : token
+      description: >
+          The user Token
+      optional :No
+    - name : image
+      description: >
+          Image on base64
+      optional :No
+    - name : idHotel
+      description: >
+          The idHotel
+      optional :No
+    - name : idCategory
+      description: >
+          The id of the category
+      optional :No
+
+
+sample_url: hotel/add/category/image.php
+sample_request: |
+
+
+sample_response: |  
+
+    {
+      "success":true,
+      "data":null
+      "status":200
+    }
+	
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":CODE
+    }

@@ -1,0 +1,52 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: hotel/admin/add/assign
+resource_url: hotel/admin/add/assign.php
+description: > 
+    Assign room to book
+parameters:
+    - name : token
+      description: >
+          The user Token
+      optional :No
+    - name : selectRoom
+      description: >
+          The id of the room to assign
+      optional :No
+    - name : selectSubRoom
+      description: >
+          The id of the name room.
+      optional :Yes
+    - name : idBook
+      description: >
+          The id of the Book
+      optional :No
+    - name : idHotel
+      description: >
+          The id of the hotel
+      optional :No
+image"],$_POST["idHotel"],$_POST["categoryId
+sample_url: hotel/admin/add/assign.php
+sample_request: |
+
+
+sample_response: |  
+
+    {
+      "success":true,
+      "data":null
+      "status":200
+    }
+	
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":CODE
+    }

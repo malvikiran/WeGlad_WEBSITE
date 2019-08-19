@@ -1,0 +1,47 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: hotel/get
+resource_url: hotel/get.php
+description: > 
+    Get Base Hotel Information
+parameters:
+    - name : idHotel
+      description: >
+          The hotel id to get base hotel information.
+      optional :No
+
+
+sample_url: user/add.php
+sample_request: |
+
+
+sample_response: |  
+
+    {
+      "success":true,
+      "data":
+        {
+          "idHotel":1,
+          "HotelName":"Hotel Relais Santo Stefano",
+          "HotelDesc":"Un posto stupendo",
+          "HotelLat":45.51665100000000308000380755402147769927978515625,
+          "HotelLng":8.074996999999999758301783003844320774078369140625,
+          "HotelCheckIn":"17:01:00",
+          "HotelCheckOut":"20:59:00",
+          "HotelStar":3
+        },
+      "status":200
+    }
+	
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":CODE
+    }

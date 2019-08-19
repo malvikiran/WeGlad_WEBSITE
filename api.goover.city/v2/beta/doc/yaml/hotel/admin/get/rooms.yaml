@@ -1,0 +1,35 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: hotel/admin/get/rooms
+resource_url: hotel/admin/get/rooms.php
+description: > 
+    Get the rooms from the hotel
+parameters:
+    - name : token
+      description: >
+          The user Token
+      optional :No
+    - name : idHotel
+      description: >
+          The of the hotel
+      optional :No
+
+sample_url: hotel/admin/get/rooms.php
+sample_request: |
+
+
+sample_response: |  
+
+	
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":9
+    }

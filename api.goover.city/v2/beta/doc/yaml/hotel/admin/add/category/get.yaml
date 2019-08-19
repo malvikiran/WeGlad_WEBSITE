@@ -1,0 +1,34 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: hotel/admin/add/category/get
+resource_url: hotel/admin/add/category/get.php
+description: > 
+    Get all Categories
+parameters:
+sample_url: hotel/admin/add/category/get.php
+sample_request: |
+
+
+sample_response: |  
+
+    [{
+      "idCategory":1,
+      "CategoryName":"Giorgio"
+    },
+    {
+      "idCategory":2,
+      "CategoryName":"Alessandro"
+    }]
+	
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":CODE
+    }
