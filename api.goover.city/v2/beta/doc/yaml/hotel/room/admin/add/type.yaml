@@ -1,0 +1,47 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: hotel/room/admin/add/type
+resource_url: hotel/room/admin/add/type.php
+description: >
+    Add an id to a room.
+parameters:
+    - name : token
+      description: >
+          The user Token
+      optional :No
+    - name : idRoom
+      description: >
+          The id of the room
+      optional :No
+    - name : idType
+      description: >
+          the id type
+      optional :No
+    - name : dataEnd
+      description: >
+          Ending date
+      optional :No
+    - name : cost
+      description: >
+          Base64 image
+      optional :No
+
+sample_url: hotel/room/admin/add/type.php
+sample_request: |
+
+
+sample_response: |
+
+
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":CODE
+    }

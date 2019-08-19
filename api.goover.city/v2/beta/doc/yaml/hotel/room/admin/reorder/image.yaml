@@ -1,0 +1,37 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: hotel/room/admin/get/types
+resource_url: hotel/room/admin/get/types.php
+description: >
+    Reorder the pics of the room
+parameters:
+    - name : token
+      description: >
+          The user Token
+      optional :No
+    - name : order
+      description: >
+          The id of the image in the new order
+      optional :No
+    - name : idRoom
+      description: >
+          The id of the room
+      optional :No
+sample_request: |
+
+
+sample_response: |
+
+
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":CODE
+    }

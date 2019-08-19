@@ -1,0 +1,35 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: hotel/room/admin/get/allCost
+resource_url: hotel/room/admin/get/allCost.php
+description: >
+    is used to draw the calendar cost
+parameters:
+    - name : token
+      description: >
+          The user Token
+      optional :No
+    - name : idRoom
+      description: >
+          The id of the room
+      optional :No
+
+sample_url: hotel/room/admin/get/allCost.php
+sample_request: |
+
+
+sample_response: |
+
+
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":CODE
+    }
