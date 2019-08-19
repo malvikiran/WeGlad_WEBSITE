@@ -1,0 +1,1967 @@
+
+@media (min-width: 1200px) {
+.container {
+	max-width: 1760px;
+}
+}
+
+@media (max-width: 1845px) {
+.hotel-detail-sec .amministraz-btn {
+	right: -108px;
+	top: 79px;
+	max-width: 424px;
+	height: 80px;
+	font-size: 23px;
+}
+.hotel-detail-sec .amministraz-btn img {
+	margin-left: 13px;
+	width: 27px;
+}
+}
+
+@media (max-width: 1600px) {
+.row-outter {
+	margin: 0 -15px;
+}
+.hotel-main {
+	padding: 0 15px;
+}
+.list-hotel li {
+	margin-right: 50px;
+}
+.list-hotel {
+	padding: 34px 23px 36px;
+}
+.list-hotel li:after {
+	height: 72.2px;
+	top: -21px;
+	left: 183px;
+}
+.accessible-btn {
+}
+.accessible-btn img {
+}
+.hotel-sec {
+	padding: 53px 0 99px 0;
+}
+.list-hotel li a {
+	font-size: 17px;
+}
+.hotel-detail-sec .amministraz-btn {
+	right: -148px;
+	top: 31px;
+	max-width: 424px;
+	height: 67px;
+	font-size: 19px;
+}
+.hotel-detail-sec {
+	padding: 132px 0 270px;
+}
+.hotel-detail-sec .amministraz-btn img {
+	width: 23px;
+}
+}
+
+@media (max-width: 1500px) {
+.row-holder {
+	margin: 0 -15px;
+}
+.main-discvover {
+	padding: 0 15px;
+}
+.amministraz-btn img {
+	width: 30px;
+}
+.amministraz-btn {
+	top: 112px;
+	max-width: 374px;
+	height: 70px;
+	font-size: 20px;
+}
+.hero-sec {
+	padding: 264px 0 333px;
+}
+.hero-text h1 {
+	font-size: 56px;
+	margin-bottom: 24px;
+}
+.main-form .form-control {
+	font-size: 20px;
+}
+.hero-text .btn-light {
+	padding: 4px 12px 0 25px !important;
+	font-size: 20px;
+}
+.search-btn {
+	min-width: 60px;
+	height: 60px;
+}
+.main-form form {
+	height: 74px;
+}
+.main-form {
+	height: 74px;
+}
+.bootstrap-select .dropdown-menu li a {
+	font-size: 19px;
+}
+.bootstrap-select .dropdown-menu {
+	padding: 40px 0 17px 0;
+}
+.mega-box {
+	padding: 25px 22px 2px;
+}
+.our-sec .discover-brand img {
+	height: 100%;
+	min-height: auto;
+}
+.carte-sec {
+	padding: 67px 0 48px;
+}
+.main-carte .carta-box h5 {
+	margin-bottom: 31px;
+	font-size: 26px;
+}
+.main-carte .card-detail-box {
+	margin-bottom: 28px;
+}
+.card-add .form-control {
+	font-size: 18px;
+}
+.main-carte {
+	max-width: 925px;
+	padding: 33px 0 33px 0;
+}
+.radio-main p {
+	font-size: 25px;
+}
+.resvervation-sec {
+	padding: 53px 0 62px;
+}
+.carta-box h5 {
+	margin-bottom: 23px;
+	font-size: 25px;
+}
+.resvervation-sec .heading {
+	margin-bottom: 40px;
+	font-size: 40px;
+}
+.carta-box {
+	max-width: 611px;
+}
+.card-data {
+	padding: 45px 36px 51px 26px;
+}
+.book-items li {
+	font-size: 23px;
+}
+.book-items li strong {
+	font-size: 22px;
+}
+.line-box {
+	margin: 0;
+	width: 146px;
+	height: 6px;
+}
+.book-btn {
+	font-size: 27px;
+	max-width: 345.19px;
+	height: 54.63px;
+}
+.login-sec {
+	padding: 120px 0 27px;
+}
+.hero-text h1 {
+	font-size: 46px;
+	margin-bottom: 14px;
+}
+.login-main .form-control {
+	height: 70px;
+	font-size: 20px;
+}
+.login-main .form-group {
+	margin-bottom: 29px;
+}
+.login-btn {
+	height: 62.45px;
+	font-size: 25px;
+	max-width: 453.16px;
+}
+.login-main {
+	margin: 0 auto 122px;
+}
+.sign-list li a {
+	font-size: 25px;
+}
+.register-page .hero-sec {
+	padding: 120px 0 27px 0;
+}
+.brand-ecco {
+}
+.brand-ecco img {
+}
+.ecco-text {
+}
+.main-relais {
+}
+.page-two .discover-sec {
+	padding: 81px 0 53px;
+}
+.botom-btn {
+	bottom: 112px;
+	width: 262px;
+	font-size: 36px;
+}
+.hotel-detail-sec {
+	padding: 132px 0 120px;
+}
+.gino-sec {
+	padding: 64px 0 119px;
+}
+.user-info img {
+	width: 138px;
+	height: 138px;
+}
+.profile-sec .form-control {
+	font-size: 18px;
+	height: 70px;
+}
+.edit-user {
+	margin-bottom: 38px;
+}
+.carta-box-two {
+	padding-bottom: 31px;
+}
+.add-card-info .card-input {
+	min-width: 260px;
+	margin-right: 33px;
+	font-size: 24px;
+}
+.add-card-info .card-input-two {
+	margin-right: 0;
+	min-width: 74px;
+}
+.add-card-info .card-input-three {
+	min-width: 70px;
+}
+.main-card-detail {
+	padding-bottom: 65px;
+}
+.profile-sec .password-detail-detail .carta-box-two h5 {
+	margin-bottom: 44px;
+}
+.elimina-btn {
+	font-size: 24px;
+	max-width: 424px;
+	height: 57.9px;
+}
+.error-box {
+	left: -16px;
+}
+.stefano-slider {
+	margin: 0 auto 34px;
+	max-width: 999px;
+}
+.stefano-sec .form-inline .form-control {
+	height: 70px;
+	font-size: 18px;
+}
+.description h4 {
+	margin-bottom: 32px;
+	font-size: 25px;
+}
+.description-text {
+	padding: 37px 34px;
+}
+.description-text p {
+	margin-bottom: 30px;
+	font-size: 20px;
+}
+.description {
+	margin: 0 auto 94px;
+}
+.hotel-servizi h5 {
+	font-size: 25px;
+	margin-bottom: 43px;
+}
+.hotel-servizi .check-area {
+	font-size: 21px;
+	padding-left: 62px;
+}
+.hotel-servizi .check-area img {
+	width: 46px;
+	height: 70px;
+	margin-right: 18px;
+}
+.hotel-servizi {
+	max-width: 1203px;
+}
+.hotel-servizi {
+	margin: 0 auto 58px;
+}
+.camera-btn h5 {
+	margin-bottom: 28px;
+	font-size: 26px;
+}
+.camera-btn a {
+	height: 57.75px;
+	max-width: 502px;
+	font-size: 20px;
+}
+.camera-btn {
+	margin-bottom: 80px;
+}
+.profile-sec .card-entry .radio-area .checkmark {
+	top: -2px;
+}
+.colse-hotel {
+	margin-bottom: 44px;
+	font-size: 18px;
+	height: 50px;
+	max-width: 384px;
+}
+.active-btn {
+	height: 64px;
+	font-size: 27px;
+}
+.page-20 .stefano-sec {
+	padding: 74px 0 113px 0;
+}
+.stefano-sec .uplod-btn {
+	margin: 55px auto 42px;
+}
+.hotel-servizi .accessible-btn img {
+	width: 40px;
+	margin-right: 12px;
+	height: 50px;
+}
+.page-20 .description {
+	margin: 0 auto 39px;
+}
+.page-20 .hotel-servizi {
+	margin: 0 auto 47px;
+}
+.quantity-area h5 {
+	margin-bottom: 29px;
+	font-size: 23px;
+}
+.profile-sec .quantity-area .form-control {
+	font-size: 35px;
+}
+.quantity-area {
+	margin: 0 auto 67px;
+}
+.prezi-head {
+	margin-bottom: 39px;
+	font-size: 25px;
+}
+.page-20 .date-main .prrzzi-input {
+	font-size: 20px;
+	max-width: 337px;
+}
+.page-20 .prezzi-main .price-box {
+	font-size: 31px;
+	margin-bottom: 60px;
+}
+.date-main {
+	margin-bottom: 52px;
+}
+.page-20 .salva {
+	height: 70px;
+	font-size: 32px;
+}
+.prezzi-main {
+	padding: 66px 0 0 62px;
+}
+.perfect-datetimepicker {
+	height: 424.72px;
+}
+.perfect-datetimepicker table {
+	height: 424.72px;
+}
+.page-20 .prezzo-standerd .price-box {
+	font-size: 29px;
+}
+.prezzo-standerd {
+	margin: 53px 0 71px 0;
+}
+.prezzo-standerd label {
+	font-size: 27px;
+	margin: 0 31px 0 0;
+}
+.page-20 .room-name input {
+	height: 65px;
+	font-size: 30px;
+	max-width: 289px;
+	margin-bottom: 60px;
+}
+.mange-sec .heading {
+	margin-bottom: 76px;
+	font-size: 40px;
+}
+.mange-text a {
+	height: 60px;
+	max-width: 508px;
+	font-size: 27px;
+}
+.mange-felid {
+	padding-top: 59px;
+}
+.mange-sec .mange-felid .heading {
+	margin-bottom: 65px;
+	font-size: 40px;
+}
+.gino-inner .form-control {
+	height: 70px;
+	font-size: 21px;
+}
+.gino-inner .form-group {
+	margin-bottom: 25px;
+}
+.gino-one {
+	padding-bottom: 30px;
+}
+.gino-two label {
+	font-size: 20px;
+	padding-top: 24px;
+}
+.gino-inner button {
+	height: 60px;
+	font-size: 24px;
+	max-width: 538px;
+}
+.mange-sec {
+	padding: 53.7px 0 77px 0;
+}
+.fn-gantt .dataPanel {
+	height: 480px !important;
+}
+.gino-inner h4 {
+	font-size: 30px;
+	margin-bottom: 70px;
+}
+}
+
+@media (max-width: 1310px) {
+.head-inner {
+	max-width: 875px;
+}
+}
+
+@media (max-width: 1199px) {
+.hero-text h1 {
+	font-size: 40px;
+	margin-bottom: 6px;
+}
+.hero-sec {
+	padding: 214px 0 203px;
+}
+.mega-box .check-area {
+	font-size: 14px;
+}
+#go-box {
+	min-width: 280px;
+}
+.hero-text .type-box .bootstrap-select .dropdown-menu li a {
+	padding: 2px 0 0 15px;
+	font-size: 14px;
+}
+.heading {
+	font-size: 38px;
+	margin-bottom: 30px;
+}
+.discover-sec {
+	padding: 41px 0 100px;
+}
+.discover-brand {
+	height: 300px;
+}
+.our-sec .discover-brand .riccione-box a {
+	font-size: 16px;
+	width: 141.72px;
+	height: 44px;
+}
+.price-box span {
+	font-size: 17px;
+}
+.price-box h4 {
+	font-size: 32px;
+}
+.my-btn {
+	font-size: 16px;
+	width: 141.72px;
+	height: 44px;
+}
+.trvel-box {
+	max-width: 580px;
+}
+.our-sec {
+	padding: 88px 0 86px;
+}
+.our-sec .discover-brand {
+	height: 300px;
+}
+.main-footer p {
+	font-size: 19px;
+}
+.main-footer .copy-right {
+	font-size: 16px;
+}
+.head-form form {
+	max-width: 342px;
+}
+.head-form {
+	max-width: 486px;
+}
+.hotel-view span {
+	font-size: 16px;
+}
+.hotel-brand .accessible-btn {
+	top: -42px;
+	left: auto;
+	right: 27px;
+	width: 175.65px;
+	height: 42.34px;
+	font-size: 14px;
+}
+.hotel-brand .accessible-btn img {
+	width: 25px;
+	height: 30px;
+}
+.list-hotel {
+	padding: 30px 8px;
+}
+.list-hotel li a {
+	font-size: 14px;
+}
+.list-hotel li {
+	margin-right: 41px;
+}
+.list-hotel li:after {
+	height: 52.2px;
+	top: -14px;
+	left: 150px;
+}
+.hotel-sec {
+	padding: 43px 0 79px 0;
+}
+.hotel-sec .heading {
+	margin-bottom: 86px;
+	font-size: 35px;
+}
+.login-sec {
+	padding: 120px 0 27px;
+}
+.login-main .form-control {
+	height: 50px;
+	font-size: 16px;
+}
+.login-main .form-group {
+	margin-bottom: 22px;
+}
+.login-btn {
+	height: 52.45px;
+	font-size: 20px;
+	max-width: 443.16px;
+}
+.login-main {
+	margin: 0 auto 82px;
+}
+.botom-btn {
+	bottom: 0;
+}
+.lSSlideOuter.vertical .lSAction>.lSNext {
+	bottom: 48px;
+}
+.lSSlideOuter.vertical {
+	margin-bottom: 0;
+}
+.text-holder p {
+	margin-bottom: 13px;
+}
+.text-holder {
+	margin-bottom: 25px;
+}
+.catagory-box li a {
+	width: 109px;
+}
+.catagory-box li:last-child {
+	margin: 0 0 0 0px;
+}
+.lSSlideOuter.vertical .lightSlider img {
+	height: 340px;
+	object-fit: cover;
+}
+.hotel-detail-sec .amministraz-btn {
+	max-width: 384px;
+	height: 48px;
+	font-size: 16px;
+}
+.hotel-detail-sec .amministraz-btn img {
+	width: 18px;
+}
+.hotel-detail-sec .head-text h4 {
+	font-size: 25px;
+}
+.recommended-hotel {
+	padding: 48px 0 0 0;
+}
+.superior-box h4 {
+	font-size: 13px;
+}
+.superior-box p {
+	font-size: 11px;
+}
+.le-brand img {
+	height: 249px;
+	object-fit: cover;
+}
+.catagory-box li .wifi {
+	width: 100%;
+}
+.catagory-box li a {
+	width: 100%;
+}
+.catagory-box li {
+	margin-right: 0;
+	margin-bottom: 10px;
+	width: 31.33%;
+}
+.catagory-box {
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.hotel-detail-sec {
+	padding: 82px 0 70px;
+}
+.stefano-sec .form-inline .form-control {
+	height: 60px;
+	font-size: 16px;
+	max-width: 601px;
+}
+#vertical-two {
+	padding-left: 86px;
+}
+.stefano-sec .lSSlideOuter.vertical .lSGallery {
+	left: 22px;
+}
+.stefano-sec .lSSlideOuter.vertical .lightSlider img {
+	height: auto;
+}
+.stefano-sec .lSSlideOuter.vertical .lSAction>a {
+	left: 23px;
+}
+.stefano-slider .lSSlideOuter.vertical .lSAction>.lSNext {
+	bottom: 101px;
+}
+.plus-btn {
+	bottom: 36px;
+	left: 15px;
+}
+.stefano-slider {
+	margin: 0 auto 0px;
+}
+.description {
+	margin: 0 auto 64px;
+}
+.hotel-servizi .check-area {
+	font-size: 19px;
+	padding-left: 70px;
+}
+.prezzi-main {
+	padding: 46px 0 0 12px;
+}
+.page-20 .date-main .prrzzi-input {
+	max-width: 282px;
+}
+.page-20 .prezzi-main .price-box {
+	font-size: 26px;
+}
+.page-20 .prezzo-standerd .price-box {
+	max-width: 444px;
+}
+.page-20 .room-name input {
+	font-size: 24px;
+	max-width: 215.8px;
+}
+.description-check .checkmark {
+	top: 9px;
+}
+.mange-sec .heading {
+	margin-bottom: 46px;
+	font-size: 29px;
+}
+.mange-text a {
+	height: 50px;
+	max-width: 408px;
+	font-size: 21px;
+}
+.fn-gantt .dataPanel {
+	height: 380px !important;
+}
+.mange-felid {
+	padding-top: 19px;
+}
+.mange-sec .mange-felid .heading {
+	margin-bottom: 55px;
+	font-size: 31px;
+}
+.gino-inner .form-control {
+	height: 50px;
+	font-size: 17px;
+}
+.gino-text h5 {
+	font-size: 25px;
+}
+.gino-two label {
+	font-size: 16px;
+}
+.gino-inner button {
+	height: 50px;
+	font-size: 22px;
+	max-width: 448px;
+}
+.gino-inner h4 {
+	font-size: 26px;
+	margin-bottom: 50px;
+}
+.discover-brand img {
+	height: 100%;
+}
+.head-inner {
+	max-width: 835px;
+}
+.foto .owl-prev {
+	left: 0;
+}
+.foto .owl-next {
+	right: 0;
+}
+.item_main {
+	margin-top: 6px;
+}
+	.main-form .datepicker {
+    min-width: 136.5px;
+}
+}
+
+@media (max-width: 991px) {
+.main-form .form-control {
+	font-size: 16px;
+}
+#go-box {
+	min-width: 190px;
+}
+.hero-text .btn-light {
+	padding: 8px 12px 0 25px !important;
+	font-size: 16px;
+	width: 196px;
+}
+#needs-box {
+	padding-left: 0px !important;
+	width: 0px !important;
+}
+.main-form {
+	padding: 0 7px 0 24px;
+}
+.main-head-menu {
+	align-items: inherit;
+	flex-wrap: wrap;
+}
+.type-box {
+	width: 33%;
+}
+.stelle-box {
+	width: 31%;
+	margin-bottom: 30px;
+}
+.hero-text .type-box .btn-light {
+	margin-top: 0;
+}
+.hero-text h1 {
+	font-size: 30px;
+	margin-bottom: 18px;
+	line-height: normal;
+}
+.heading {
+	font-size: 30px;
+	margin-bottom: 27px;
+}
+.main-discvover {
+	padding: 0 8px;
+}
+.row-holder {
+	margin: 0 -8px;
+}
+.riccione-box h3 {
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+.riccione-box a {
+	font-size: 15px;
+	width: 121.72px;
+	height: 40px;
+}
+.price-box h4 {
+	font-size: 23px;
+}
+.price-box span {
+	font-size: 14px;
+}
+.price-box {
+	padding-right: 16px;
+}
+.discover-brand {
+	height: 240px;
+}
+.trvel-box img {
+	width: 60px;
+}
+.trvel-box {
+	max-width: 490px;
+	top: -32px;
+}
+.our-sec .discover-brand {
+	height: 240px;
+}
+.main-footer h5 {
+	font-size: 28px;
+}
+.main-footer p {
+	margin-bottom: 18px;
+	font-size: 16px;
+}
+.main-footer ul li a img {
+	width: 30px;
+}
+.main-footer .copy-right {
+	font-size: 13px;
+}
+.resvervation-sec .heading {
+	margin-bottom: 32px;
+	font-size: 28px;
+}
+.head-form {
+	max-width: 466px;
+}
+.head-form form {
+	max-width: 404px;
+}
+.list-hotel {
+	padding: 15px 18px;
+	flex-direction: column;
+}
+.list-hotel li a {
+	font-size: 15px;
+}
+.list-hotel li {
+	margin-right: 0;
+	margin-bottom: 5px;
+}
+.list-hotel li:after {
+	display: none;
+}
+.hotel-view span {
+	font-size: 14px;
+}
+.hotel-brand .accessible-btn {
+	top: -36px;
+	width: 149.65px;
+	height: 36.34px;
+	font-size: 13px;
+}
+.hotel-sec {
+	padding: 38px 0 68px 0;
+}
+.head-text h4 {
+	font-size: 20px;
+}
+.head-text p {
+	font-size: 14px;
+}
+.brand-ecco {
+	height: 267px;
+}
+.brand-ecco img {
+	min-height: auto;
+	height: 100%;
+}
+.ecco-text {
+	height: 267px;
+	min-height: auto;
+}
+.accessible-btn img {
+	width: 34px;
+	height: 26px;
+}
+.footer-ecco h4 {
+	font-size: 28px;
+}
+.light-box {
+	width: 180px;
+}
+.brand-ecco .accessible-btn {
+	width: 122px;
+	height: 36px;
+	font-size: 9px;
+}
+.page-two .discover-sec {
+	padding: 51px 0 23px;
+}
+.botom-btn {
+	width: 174px;
+	font-size: 27px;
+}
+.gino-text h5 {
+	font-size: 24px;
+}
+.gino-text a {
+	font-size: 14px;
+	margin-bottom: 45px;
+}
+.gino-detail span {
+	font-size: 20px;
+}
+.user-info img {
+	width: 118px;
+	height: 118px;
+}
+.your-reservation h4 {
+	margin-bottom: 3px;
+	font-size: 23px;
+}
+.your-reservation .head-text h4 {
+	font-size: 18px;
+}
+.reservation-footer h5 {
+	font-size: 17px;
+}
+.reservation-footer p {
+	font-size: 15px;
+}
+.gino-sec {
+	padding: 44px 0 49px;
+}
+.profile-sec .amministraz-btn {
+	top: 43px;
+	max-width: 330px;
+	height: 59px;
+	font-size: 16px;
+}
+.profile-sec .amministraz-btn img {
+	width: 20px;
+}
+.uplod-btn {
+	margin: 0 auto 35px;
+}
+.profile-sec .form-control {
+	font-size: 16px;
+	height: 60px;
+}
+.email-box {
+	padding: 10px 0 28px 0;
+}
+.error-box img {
+	width: 30px;
+}
+.error-box {
+	left: 12px;
+}
+.stefano-sec {
+	padding: 64px 0 0 0;
+}
+.stefano-sec .form-inline .form-control {
+	height: 56px;
+	max-width: 441px;
+}
+.accessible-btn {
+	width: 185.65px;
+	height: 48.34px;
+	font-size: 15px;
+}
+.stefano-sec .lSSlideOuter.vertical .lightSlider img {
+	height: 500px;
+}
+.description-text p {
+	margin-bottom: 20px;
+	font-size: 17px;
+}
+.hotel-servizi .check-area {
+	font-size: 16px;
+}
+.hotel-servizi {
+	margin: 0 auto 18px;
+}
+.carta-per {
+	margin: 0 auto 56px;
+}
+.page-20 .profile-sec .form-control {
+	font-size: 16px;
+	height: 50px;
+}
+.prezzo-standerd {
+	flex-direction: column;
+}
+.prezzo-standerd label {
+	font-size: 23px;
+	margin: 0 0px 17px 0;
+}
+.quantity-area h5 {
+	margin-bottom: 17px;
+	font-size: 18px;
+}
+.prezi-head {
+	margin-bottom: 29px;
+	font-size: 20px;
+}
+.page-20 .salva {
+	height: 50px;
+	font-size: 22px;
+}
+.page-20 .room-name input {
+	max-width: 165.8px;
+}
+.page-20 .stefano-sec {
+	padding: 54px 0 17px 0;
+}
+.mange-text a {
+	font-size: 18px;
+}
+.gino-text h5 {
+	font-size: 22px;
+}
+.gino-inner h4 {
+	font-size: 23px;
+	margin-bottom: 36px;
+}
+.logo img {
+	height: 32px;
+}
+.head-inner {
+	max-width: 655px;
+}
+.head-form form {
+	max-width: 255px;
+}
+.head-form {
+	max-width: 416px;
+}
+.stefano-sec .form-inline button {
+	width: 185.65px;
+	height: 48.34px;
+	font-size: 15px;
+}
+.stefano-sec .form-inline button img {
+	height: 26px;
+	width: 34px;
+}
+.foto .owl-prev {
+	left: -24px;
+}
+.foto .owl-next {
+	right: -24px;
+}
+	.main-form .datepicker {
+    min-width: 103.5px;
+}
+}
+
+@media (max-width: 767px) {
+.amministraz-btn {
+	top: 113px;
+	max-width: 324px;
+	height: 53px;
+	font-size: 16px;
+}
+.amministraz-btn img {
+	width: 19px;
+}
+.main-form {
+	height: auto;
+}
+.main-form .form-control {
+	width: 100% !important;
+	min-width: 100% !important;
+	text-align: left !important;
+	padding: 0;
+	height: 50px;
+	border-bottom: 1px solid rgba(112, 112, 112, 0.21) !important;
+	border-right: none !important;
+}
+.main-form form {
+	height: auto;
+	flex-wrap: wrap;
+}
+.main-form {
+	border-radius: 15px;
+}
+.hero-text .btn-light {
+	padding: 15px 12px 0 0px !important;
+	width: 100%;
+}
+.main-form {
+	border-radius: 15px;
+	padding: 20px 20px;
+}
+#needs-box {
+	min-width: 0 !important;
+}
+.search-btn {
+	z-index: 1;
+	min-width: 100%;
+	height: 50px;
+	margin-top: 20px;
+}
+.mega-box {
+	z-index: 99999;
+	top: 70px;
+}
+.type-box {
+	width: 100%;
+	margin-bottom: 30px;
+}
+.stelle-box {
+	width: 100%;
+}
+.mega-box h4 {
+	margin-bottom: 12px;
+}
+.mega-box {
+	padding: 35px 22px 22px;
+}
+.hero-sec {
+	padding: 204px 0 113px;
+	margin-top: 68px;
+}
+.main-carte {
+	padding: 23px 15px 28px;
+}
+.card-add {
+	padding-left: 0;
+}
+.carta-box .radio-area .checkmark {
+	width: 33px;
+	height: 33px;
+}
+.check-area .checkmark:after {
+	width: 23px;
+	height: 23px;
+}
+.radio-main p {
+	font-size: 20px;
+}
+.radio-main p img {
+	margin-right: 19px;
+}
+.main-carte .card-detail-box {
+	margin-bottom: 16px;
+}
+.main-carte .carta-box .aggiungi {
+	margin-bottom: 21px;
+}
+.main-carte .carta-box h5 {
+	font-size: 22px;
+}
+.card-add .form-control {
+	font-size: 14px;
+}
+.resvervation-sec {
+	padding: 23px 0 42px;
+}
+.resvervation-sec .heading {
+	margin-bottom: 25px;
+	font-size: 26px;
+}
+.book-items li {
+	font-size: 19px;
+}
+.book-items li strong {
+	font-size: 20px;
+}
+.book-btn {
+	font-size: 20px;
+	max-width: 255.19px;
+	height: 48.63px;
+}
+.card-data {
+	padding: 35px 36px 35px 26px;
+}
+.head-form {
+	max-width: 349px;
+}
+.head-form form {
+	max-width: 344px;
+}
+.head-form .search-btn {
+	margin: 0;
+}
+.hotel .logo {
+	padding: 0;
+}
+.user-box img {
+	max-width: inherit;
+}
+#header {
+	padding: 10px 0 14px;
+	width: 100%;
+}
+.logo {
+	padding: 0;
+	width: 100%;
+}
+.hotel-brand {
+	margin-bottom: 70px;
+}
+.hotel-view span {
+	font-size: 26px;
+}
+.list-hotel {
+	padding: 25px 18px;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.list-hotel li:after {
+	display: block;
+}
+.list-hotel li a {
+	font-size: 18px;
+}
+.list-hotel li:after {
+	height: 52.2px;
+	top: -12px;
+	left: 240px;
+}
+.hotel-sec {
+	padding: 38px 0 8px 0;
+}
+.login-sec {
+	padding: 120px 0 27px;
+}
+.sign-list li a {
+	font-size: 18px;
+}
+.register-page .login-main {
+	margin-bottom: 66px;
+}
+.login-btn {
+	max-width: 100%;
+}
+.datepicker.dropdown-menu {
+	width: auto;
+}
+.ecco-text {
+	padding: 26px 22px 14px 20px;
+	border-radius: 0;
+}
+.brand-ecco img {
+	border-radius: 0;
+	width: 100%;
+}
+.page-three .main-form {
+	margin-bottom: 30px;
+}
+.hotel-detail-sec {
+	padding: 92px 0 40px;
+}
+.le-brand img {
+	height: auto;
+	object-fit: cover;
+	width: 100%;
+	margin-bottom: 11px;
+}
+.le-brand .accessible-btn img {
+	margin-bottom: 0;
+}
+.superior-box h4 {
+	font-size: 16px;
+}
+.logo {
+	margin-top: 14px;
+	margin-bottom: 20px;
+}
+.head-form {
+	max-width: 100%;
+}
+.head-form form {
+	max-width: 100%;
+}
+.recommended-hotel {
+	width: 100%;
+}
+.simli-brand img {
+	width: 100%;
+}
+.carta-box {
+	max-width: 434px;
+}
+.profile-sec .card-entry .radio-area .checkmark {
+	top: 14px;
+}
+.add-card-info .card-input {
+	min-width: 135px;
+	margin-right: 33px;
+	font-size: 14px;
+}
+.add-card-info .card-input-two {
+	margin-right: 0;
+	min-width: 74px;
+}
+.add-card-info .card-input-three {
+	margin-right: 7px;
+	min-width: 74px;
+}
+.elimina-btn {
+	font-size: 17px;
+	max-width: 394px;
+	height: 48.9px;
+}
+.profile-sec .password-detail-detail .carta-box-two h5 {
+	margin-bottom: 24px;
+}
+.profile-sec .amministraz-btn {
+	height: 51px;
+}
+.stefano-sec .lSSlideOuter.vertical .lSGallery {
+	left: 8px;
+}
+.stefano-sec .lSSlideOuter.vertical .lSGallery {
+	left: 8px;
+}
+.stefano-sec .lSSlideOuter.vertical .lSAction>a {
+	left: 11px;
+}
+.plus-btn {
+	left: 4px;
+}
+#vertical-two {
+	padding-left: 70px;
+}
+.stefano-slider .lSSlideOuter.vertical .lightSlider img {
+	border-radius: 10px;
+}
+.description h4 {
+	margin-bottom: 22px;
+	font-size: 24px;
+}
+.camera-btn a {
+	height: 45px;
+	max-width: 100%;
+	font-size: 16px;
+}
+.page-20 .room-name input {
+	max-width: 48%;
+}
+.room-name-main {
+	margin: 35px auto 0;
+}
+.prezzo-standerd {
+	margin: 43px 0 51px 0;
+}
+.quantity-area {
+	margin: 0 auto 35px;
+}
+.page-20 .date-main .prrzzi-input {
+	max-width: 198px;
+}
+.mange-text {
+	text-align: center !important;
+}
+.mange-sec .heading {
+	margin-bottom: 19px;
+	font-size: 28px;
+}
+.mange-sec .mange-felid .heading {
+	margin-bottom: 35px;
+	font-size: 28px;
+}
+.gino-one .user-info {
+	margin-bottom: 30px;
+	align-items: center;
+}
+.gino-one {
+	padding-bottom: 0px;
+}
+.gino-two {
+	text-align: left;
+}
+.gino-two label {
+	margin-bottom: 12px;
+}
+.gino-inner button {
+	max-width: 100%;
+}
+.gino-two {
+	padding-bottom: 8px;
+}
+.mange-sec {
+	padding: 33.7px 0 47px 0;
+}
+.gino-inner h4 {
+	font-size: 20px;
+	margin-bottom: 16px;
+}
+.head-inner {
+	max-width: 100%;
+}
+.admin-btn {
+	top: 35px;
+	transform: inherit;
+}
+.stefano-sec .form-inline .form-control {
+	margin-right: 0;
+	max-width: 100%;
+	margin-bottom: 20px;
+}
+.stefano-sec .form-inline button {
+	width: 100%;
+}
+	.card-add .main-holder-card .form-control {
+    width: 120.5px;
+}
+}
+
+@media (max-width: 575px) {
+.amministraz-btn {
+	top: 120px;
+	max-width: 297px;
+	height: 43px;
+	font-size: 14px;
+}
+.heading {
+	font-size: 27px;
+	margin-bottom: 24px;
+}
+.trvel-box {
+	max-width: 340px;
+	top: -32px;
+}
+.our-sec {
+	padding: 60px 0 76px;
+}
+.main-footer ul {
+	margin-bottom: 23px;
+}
+.main-footer p {
+	margin-bottom: 17px;
+	font-size: 14px;
+}
+.main-footer h5 {
+	font-size: 27px;
+	margin-bottom: 4px;
+}
+.main-carte .carta-box h5 {
+	margin-bottom: 16px;
+}
+.carte-sec {
+	padding: 37px 0 44px;
+}
+.resvervation-sec .heading {
+	margin-bottom: 20px;
+	font-size: 24px;
+}
+.carta-box h5 {
+	margin-bottom: 17px;
+	font-size: 20px;
+}
+.card-data {
+	padding: 25px 36px 25px 26px;
+	margin-bottom: 25px;
+}
+.book-items li span {
+	min-width: 183px;
+}
+.list-hotel li:after {
+	left: 217px;
+}
+.login-btn {
+	height: 40px;
+	font-size: 16px;
+}
+.login-main .form-control {
+	height: 45px;
+	font-size: 14px;
+}
+.ecco-text {
+	height: 270px;
+}
+.brand-ecco {
+	height: 270px;
+}
+.page-three .discover-sec {
+	padding: 41px 0 10px;
+}
+.hotel-detail-sec {
+	padding: 102px 0 32px;
+}
+.user-info img {
+	width: 88px;
+	height: 88px;
+	margin-right: 12px;
+}
+.gino-text h5 {
+	font-size: 20px;
+}
+.gino-text a {
+	margin-bottom: 22px;
+}
+.gino-text .modifica {
+	font-size: 16px;
+}
+.your-reservation h4 {
+	margin-bottom: 1px;
+	font-size: 20px;
+}
+.uplod-btn img {
+	width: 128px;
+	height: 128px;
+}
+.uplod-btn .pen-img {
+	width: 60px;
+	height: 60px;
+}
+.uplod-btn {
+	margin: 30px auto 35px;
+	width: 128px;
+	height: 128px;
+}
+.carta-box {
+	max-width: 383px;
+}
+.card-entry {
+	flex-direction: column;
+	padding: 16px 0;
+	height: auto !important;
+	position: relative;
+}
+.profile-sec .card-entry .radio-area .checkmark {
+	top: 3px;
+}
+.error-box {
+	left: -37px;
+	top: 28px;
+}
+.add-card-info .card-input-two {
+	min-width: 35px;
+}
+.add-card-info .card-input-three {
+	min-width: 57px;
+}
+.description-text p {
+	margin-bottom: 12px;
+	font-size: 14px;
+	line-height: 28px;
+}
+.stefano-sec .form-inline .form-control {
+	height: 56px;
+	max-width: 100%;
+	margin: 0 0 19px;
+}
+.stefano-sec .form-inline .accessible-btn {
+	width: 100%;
+}
+#vertical-two {
+	padding-left: 78px;
+}
+.stefano-sec .lSSlideOuter.vertical .lSGallery {
+	left: 21px;
+}
+.stefano-sec .lSSlideOuter.vertical .lSAction>a {
+	left: 24px;
+}
+.plus-btn {
+	left: 15px;
+}
+.carta-per .card-entry.form-control {
+	padding: 10px 28px 5px 21px;
+	margin-bottom: 32px;
+}
+.active-btn {
+	height: 49px;
+	font-size: 19px;
+}
+.carta-per .carta-box {
+	max-width: 100%;
+}
+.hotel-servizi .checkmark {
+	height: 37px;
+	width: 37px;
+}
+.hotel-servizi .check-area .checkmark:after {
+	width: 19px;
+	height: 19px;
+}
+.hotel-servizi .check-area img {
+	width: 36px;
+	height: 45px;
+	margin-right: 15px;
+}
+.hotel-servizi .check-area {
+	margin-bottom: 23px;
+}
+.camera-btn {
+	margin-bottom: 30px;
+}
+.calendar-main {
+	margin: 0 auto 43px;
+}
+.mange-sec .heading {
+	margin-bottom: 12px;
+	font-size: 22px;
+}
+.mange-text a {
+	font-size: 16px;
+	max-width: 100%;
+	height: 40px;
+}
+.mange-sec .mange-felid .heading {
+	margin-bottom: 25px;
+	font-size: 22px;
+}
+.gino-inner button {
+	font-size: 16px;
+}
+.gino-inner h4 {
+	font-size: 17px;
+}
+.description-check .checkmark {
+	top: 15px;
+}
+.mt-box {
+	margin-top: 130.61px;
+}
+.foto .owl-prev {
+	left: 0;
+}
+.foto .owl-next {
+	right: 0;
+}
+	.card-add  .main-holder-card  .form-control {
+    width: 86px;
+}
+}
+
+@media (max-width: 479px) {
+.logo {
+	padding: 0;
+}
+.amministraz-btn {
+	top: 90px;
+	max-width: 278px;
+	height: 41px;
+	font-size: 12px;
+}
+.amministraz-btn img {
+	width: 15px;
+	margin-left: 9px;
+}
+.hero-sec {
+	padding: 170px 0 86px;
+}
+.hero-text h1 {
+	font-size: 23px;
+	margin-bottom: 16px;
+}
+.search-btn {
+	height: 40px;
+}
+.search-btn img {
+	width: 24px;
+}
+.heading {
+	font-size: 20px;
+	margin-bottom: 19px;
+}
+.discover-sec {
+	padding: 30px 0 75px;
+}
+.trvel-box {
+	max-width: 280px;
+	top: -32px;
+}
+.our-sec {
+	padding: 60px 0 56px;
+}
+.mega-box {
+	padding: 15px 16px 13px;
+}
+.main-carte .card-data {
+	flex-direction: column;
+}
+.radio-main {
+	margin-bottom: 10px;
+}
+.carta-box .radio-area .checkmark {
+	top: 13px;
+}
+.main-holder-card {
+	display: block;
+}
+.main-holder-card .form-control:first-child {
+	width: 100%;
+}
+.card-add .form-control {
+	margin-bottom: 11px;
+}
+.head-form .form-control {
+	padding: 0 0 0 22px;
+	font-size: 14px;
+}
+.card-data {
+	padding: 25px 10px 25px;
+	flex-direction: column;
+}
+.radio-main p img {
+	margin-right: 8px;
+}
+.card-detail-box .radio-main p {
+	font-size: 16px;
+}
+.book-items li {
+	font-size: 16px;
+}
+.book-items li strong {
+	font-size: 14px;
+}
+.book-items {
+	max-width: 100%;
+}
+.book-items li strong {
+	margin-left: 0;
+}
+.hotel-sec .heading {
+	margin-bottom: 69px;
+	font-size: 25px;
+}
+.hotel-sec {
+	padding: 28px 0 0px 0;
+}
+.list-hotel li a {
+	font-size: 15px;
+}
+.list-hotel {
+	padding: 25px 13px;
+}
+.list-hotel li:after {
+	left: 149px;
+}
+.hotel-view span {
+	font-size: 18px;
+}
+.login-sec {
+	padding: 120px 0 27px;
+}
+.login-main .form-control {
+	height: 40px;
+	font-size: 12px;
+}
+.sign-list {
+	padding-right: 10px;
+}
+.sign-list li a {
+	font-size: 17px;
+}
+.login-main {
+	margin: 0 auto 62px;
+}
+.register-page .login-main {
+	margin-bottom: 36px;
+}
+.page-two .discover-sec {
+	padding: 31px 0 2px;
+}
+.brand-ecco .accessible-btn {
+	height: 44px;
+	font-size: 13px;
+	width: 168px;
+}
+.brand-ecco .accessible-btn img {
+	height: 34px;
+}
+.head-text h4 {
+	font-size: 17px;
+}
+.ecco-text {
+	padding: 16px 10px 16px 15px;
+}
+.light-box {
+	width: 142px;
+}
+.footer-ecco h4 {
+	font-size: 25px;
+}
+.brand-ecco {
+	height: 190px;
+}
+.ecco-text {
+	height: 230px;
+}
+.page-three .main-form {
+	margin-bottom: 60px;
+}
+.botom-btn {
+	width: 144px;
+	font-size: 22px;
+	bottom: 3px;
+}
+.catagory-box li {
+	width: 47.33%;
+}
+.hotel-detail-sec .amministraz-btn {
+	right: -89px;
+}
+.hotel-detail-sec .head-text h4 {
+	font-size: 19px;
+}
+.camere-box .heading {
+	margin-bottom: 19px;
+	font-size: 21px;
+}
+.scopri-footer a {
+	width: 105px;
+	height: 36px;
+	font-size: 14px;
+}
+.payment-btn {
+	width: 197.59px;
+	height: 37.55px;
+	font-size: 14px;
+}
+.gino-detail {
+	margin-bottom: 17px;
+	flex-direction: column;
+}
+.user-info {
+	margin-bottom: 20px;
+}
+.your-reservation .date-box {
+	font-size: 15px;
+	margin-bottom: 15px;
+}
+.profile-sec .gino-filed {
+	padding-left: 29px;
+}
+.profile-sec .carta-box .radio-area .checkmark {
+	top: -17px;
+}
+.profile-sec span {
+	padding-left: 59px;
+}
+.card-entry {
+	border-radius: 22px !important;
+}
+.profile-sec .card-entry .radio-area .checkmark {
+	top: 3px;
+}
+.profile-sec .card-entry .radio-main {
+	padding-left: 18px;
+	margin-bottom: 10px !important;
+}
+.profile-sec .card-entry .radio-area .checkmark {
+	top: 12px;
+}
+.profile-sec .card-add .add-card-info {
+	margin-bottom: 39px;
+	height: auto;
+	flex-direction: column;
+	padding: 15px 30px;
+	border-radius: 22px;
+}
+.add-card-info img {
+	margin-right: 0;
+	margin-bottom: 14px;
+}
+.add-card-info .card-input {
+	min-width: 100% !important;
+	margin: 0 0 10px;
+	text-align: left !important;
+	font-size: 16px;
+}
+.main-card-detail {
+	padding-bottom: 45px;
+}
+.carta-box {
+	max-width: 259px;
+}
+.error-box img {
+	width: 24px;
+}
+.error-box {
+	left: -27px;
+	top: 46px;
+}
+.profile-sec .form-control {
+	font-size: 13px;
+}
+.page-20 .stefano-sec {
+	padding: 34px 0 17px 0;
+}
+.stefano-sec .form-inline {
+	margin: 0 auto 0;
+}
+.stefano-sec .uplod-btn {
+	margin: 15px auto 32px;
+}
+.description-text {
+	padding: 27px 16px;
+}
+.description-check .checkmark {
+	top: 7px;
+}
+.page-20 .date-main .prrzzi-input {
+	max-width: 133px;
+	font-size: 14px;
+}
+.date-main {
+	margin-bottom: 26px;
+}
+.page-20 .prezzi-main .price-box {
+	margin-bottom: 40px;
+}
+.page-20 .salva {
+	font-size: 17px;
+}
+.prezzo-standerd label {
+	font-size: 17px;
+	margin: 0 0px 17px 0;
+}
+.page-20 .hotel-servizi {
+	margin: 0 auto 17px;
+}
+.mange-text a {
+	font-size: 12px;
+	max-width: 70%;
+	height: 35px;
+}
+.admin-btn {
+	right: 9px;
+	font-size: 11px;
+}
+.hotel .logo img {
+	width: 137px;
+}
+.stefano-sec .form-inline {
+	margin: 0 auto 30px;
+}
+.description-check .checkmark {
+	top: 16px;
+}
+.foto .heading {
+	margin-bottom: 19px;
+	font-size: 21px;
+}
+.info-box .heading {
+	font-size: 21px;
+	margin-bottom: 14px;
+}
+.modal-slider .owl-item.active.center {
+	transform: scale(1);
+}
+	.card-add .main-holder-card .form-control {
+    width: 100%;
+}
+	.card-add .main-holder-card .form-control:first-child {
+
+    width: 100%;
+
+}
+}

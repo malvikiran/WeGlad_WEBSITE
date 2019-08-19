@@ -1,0 +1,246 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>HOME ||  WeGlad</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/svg" href="images/favicon.svg">
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/owl.carousel.min.css">
+<link rel="stylesheet" href="css/owl.theme.default.min.css">
+<link rel="stylesheet" href="css/lightslider.css">
+<link rel="stylesheet" href="css/bootstrap-select.css">
+<link rel="stylesheet" href="css/datepicker.css">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/responsive.css">
+</head>
+
+<body class="hotel">
+<div class="wrapper">
+    <header id="header" class="position-static"> <a href="#" class="admin-btn" >AMMINISTRAZIONE</a>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="head-inner">
+                        <nav class="navbar navbar-expand-lg navbar-light nav"> <a class="navbar-brand logo" href="index.html"><img src="images/logo.svg" alt="logo"></a>
+                            <div class="ml-auto head-form">
+                                <form>
+                                    <div class="position-relative">
+                                        <input type="search" class="form-control" placeholder="Dove vuoi andare?">
+                                        <button type="submit" class="search-btn"><img src="images/search.svg" alt=""></button>
+                                    </div>
+                                </form>
+                                <a href="#" class="user-box"><img src="images/user-img.svg" alt=""></a> </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    
+    <!--mange-sec-->
+    
+    <section class="mange-sec mt-box">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="mange-text text-right">
+                        <h2 class="heading">GESTISCI <span>PRENOTAZIONI</span> </h2>
+                        <a href="#">AGGIUNGI PRENOTAZIONE</a> </div>
+                </div>
+            </div>
+        </div>
+        <div class="gantt"></div>
+        <div class="mange-felid">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h2 class="heading">PRENOTAZIONE <span>SELEZIONATA</span> </h2>
+                        <div class="gino-inner text-right">
+                            <form>
+                                <div class="row gino-one">
+                                    <div class="col-md-6">
+                                        <div class="user-info"> <img src="images/user-img.svg" alt="">
+                                            <div class="gino-text">
+                                                <h5>Gino Infostrada</h5>
+                                                <a href="mailto:Gino@infostrada.it" class="mb-0">Gino@infostrada.it</a> </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <input type="text" class="form-control" value="5-09-2003">
+                                        </div>
+                                        <div class="form-group">
+                                            <input type="text" class="form-control" value="18-09-2003">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row gino-two">
+                                    <div class="col-md-6">
+                                        <label>CAMERA ASSEGNATA:</label>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <input type="text" class="form-control" value="108">
+                                        </div>
+                                    </div>
+                                </div>
+                                <button type="submit">ANNULLA PRENOTAZIONE</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer id="footer" class="text-center">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="main-footer">
+                        <h5>WeGlad</h5>
+                        <p>WeGlad è parte di A.Glads SRL, Leader mondiale nel settore dei viaggi accessibili.</p>
+                        <ul>
+                            <li><a href="#"><img src="images/fb.svg" alt=""></a></li>
+                            <li><a href="#"><img src="images/insta.svg" alt=""></a></li>
+                            <li><a href="#"><img src="images/linkden.svg" alt=""></a></li>
+                        </ul>
+                        <p class="copy-right">Copyright © 2019-2019 weglad.com™. Tutti i diritti riservati.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
+<script src="js/jquery-3.2.1.slim.min.js"></script> 
+<script src="js/jquery.min.js"></script> 
+<script src="js/popper.min.js"></script> 
+<script src="js/bootstrap.min.js"></script> 
+<script src="js/bootstrap-datepicker.js"></script> 
+<script src="js/bootstrap-select.js"></script> 
+<script src="js/smooth-scroll.js"></script> 
+<script src="js/lightslider.js"></script> 
+<script src="js/owl.carousel.min.js"></script> 
+<script src="js/jquery.fn.gantt.js"></script> 
+<script src="js/custom.js"></script> 
+<script>
+
+		$(function() {
+
+			"use strict";
+
+			$(".gantt").gantt({
+				source: [{
+					name: "Sprint 0",
+					desc: "Analysis",
+					values: [{
+						from: "/Date(1320192000000)/",
+						to: "/Date(1322401600000)/",
+						label: "Requirement Gathering", 
+						customClass: "ganttRed"
+					}]
+				},{
+					name: " ",
+					desc: "Scoping",
+					values: [{
+						from: "/Date(1322611200000)/",
+						to: "/Date(1323302400000)/",
+						label: "Scoping", 
+						customClass: "ganttRed"
+					}]
+				},{
+					name: "Sprint 1",
+					desc: "Development",
+					values: [{
+						from: "/Date(1323802400000)/",
+						to: "/Date(1325685200000)/",
+						label: "Development", 
+						customClass: "ganttGreen"
+					}]
+				},{
+					name: " ",
+					desc: "Showcasing",
+					values: [{
+						from: "/Date(1325685200000)/",
+						to: "/Date(1325695200000)/",
+						label: "Showcasing", 
+						customClass: "ganttBlue"
+					}]
+				},{
+					name: "Sprint 2",
+					desc: "Development",
+					values: [{
+						from: "/Date(1326785200000)/",
+						to: "/Date(1325785200000)/",
+						label: "Development", 
+						customClass: "ganttGreen"
+					}]
+				},{
+					name: " ",
+					desc: "Showcasing",
+					values: [{
+						from: "/Date(1328785200000)/",
+						to: "/Date(1328905200000)/",
+						label: "Showcasing", 
+						customClass: "ganttBlue"
+					}]
+				},{
+					name: "Release Stage",
+					desc: "Training",
+					values: [{
+						from: "/Date(1330011200000)/",
+						to: "/Date(1336611200000)/",
+						label: "Training", 
+						customClass: "ganttOrange"
+					}]
+				},{
+					name: " ",
+					desc: "Deployment",
+					values: [{
+						from: "/Date(1336611200000)/",
+						to: "/Date(1338711200000)/",
+						label: "Deployment", 
+						customClass: "ganttOrange"
+					}]
+				},{
+					name: " ",
+					desc: "Warranty Period",
+					values: [{
+						from: "/Date(1336611200000)/",
+						to: "/Date(1349711200000)/",
+						label: "Warranty Period", 
+						customClass: "ganttOrange"
+					}]
+				}],
+				navigate: "scroll",
+				scale: "weeks",
+				maxScale: "months",
+				minScale: "days",
+				itemsPerPage: 10,
+				onItemClick: function(data) {
+					alert("Item clicked - show some details");
+				},
+				onAddClick: function(dt, rowId) {
+					alert("Empty space clicked - add an item!");
+				},
+				onRender: function() {
+					if (window.console && typeof console.log === "function") {
+						console.log("chart rendered");
+					}
+				}
+			});
+
+			$(".gantt").popover({
+				selector: ".bar",
+				title: "I'm a popover",
+				content: "And I'm the content of said popover.",
+				trigger: "hover"
+			});
+
+			prettyPrint();
+
+		});
+
+    </script>
+</body>
+</html>

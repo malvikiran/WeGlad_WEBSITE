@@ -1,0 +1,22 @@
+<svg id="loupe" xmlns="http://www.w3.org/2000/svg" width="31.842" height="31.842" viewBox="0 0 31.842 31.842">
+  <g id="Group_2" data-name="Group 2" transform="translate(18.658 11.817)">
+    <g id="Group_1" data-name="Group 1">
+      <path id="Path_1" data-name="Path 1" d="M300.622,190a.622.622,0,1,0,.622.622A.622.622,0,0,0,300.622,190Z" transform="translate(-300 -190)" fill="rgba(0,0,0,0.37)"/>
+    </g>
+  </g>
+  <g id="Group_4" data-name="Group 4">
+    <g id="Group_3" data-name="Group 3">
+      <path id="Path_2" data-name="Path 2" d="M31.114,27.6l-8.3-8.3a12.327,12.327,0,0,0,2.065-6.856A12.438,12.438,0,1,0,12.438,24.877a12.327,12.327,0,0,0,6.856-2.065l2.295,2.295h0L27.6,31.114A2.487,2.487,0,1,0,31.114,27.6ZM19,21.5h0A11.206,11.206,0,1,1,21.5,19,11.249,11.249,0,0,1,19,21.5Zm1.3.564a12.48,12.48,0,0,0,1.759-1.759l1.764,1.764a15.1,15.1,0,0,1-1.759,1.759Zm9.927,8.169a1.243,1.243,0,0,1-1.759,0l-5.522-5.522a16.342,16.342,0,0,0,1.759-1.759l5.523,5.523a1.243,1.243,0,0,1,0,1.758Z" fill="rgba(0,0,0,0.37)"/>
+    </g>
+  </g>
+  <g id="Group_6" data-name="Group 6" transform="translate(2.488 2.488)">
+    <g id="Group_5" data-name="Group 5">
+      <path id="Path_3" data-name="Path 3" d="M49.951,40A9.951,9.951,0,1,0,59.9,49.951,9.962,9.962,0,0,0,49.951,40Zm0,18.658a8.707,8.707,0,1,1,8.707-8.707A8.717,8.717,0,0,1,49.951,58.658Z" transform="translate(-40 -40)" fill="rgba(0,0,0,0.37)"/>
+    </g>
+  </g>
+  <g id="Group_8" data-name="Group 8" transform="translate(11.817 4.975)">
+    <g id="Group_7" data-name="Group 7">
+      <path id="Path_4" data-name="Path 4" d="M197.591,84.793A7.475,7.475,0,0,0,190.622,80a.622.622,0,0,0,0,1.244,6.262,6.262,0,0,1,5.809,4,.622.622,0,1,0,1.161-.446Z" transform="translate(-190 -80)" fill="rgba(0,0,0,0.37)"/>
+    </g>
+  </g>
+</svg>

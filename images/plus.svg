@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54.844" height="54.844" viewBox="0 0 54.844 54.844">
+  <defs>
+    <filter id="b3a27a654f021793d99fe29fabd9a29f" x="0" y="0" width="54.844" height="54.844" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.412"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_76" data-name="Group 76" transform="translate(-376.665 -905.848)">
+    <g transform="matrix(1, 0, 0, 1, 376.67, 905.85)" filter="url(#b3a27a654f021793d99fe29fabd9a29f)">
+      <rect id="b3a27a654f021793d99fe29fabd9a29f-2" data-name="b3a27a654f021793d99fe29fabd9a29f" width="36.844" height="36.844" rx="10" transform="translate(9 9)" fill="#ffc244"/>
+    </g>
+    <line id="Line_16" data-name="Line 16" y2="23.07" transform="translate(403.898 921.781)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_17" data-name="Line 17" x2="23.814" transform="translate(391.991 932.944)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="3"/>
+  </g>
+</svg>
