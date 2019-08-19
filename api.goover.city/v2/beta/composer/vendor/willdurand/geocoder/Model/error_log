@@ -1,0 +1,4 @@
+[14-May-2019 13:28:09 UTC] PHP Fatal error:  Interface 'Geocoder\Collection' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/Model/AddressCollection.php on line 20
+[16-May-2019 05:05:31 UTC] PHP Fatal error:  Interface 'Geocoder\Location' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/Model/Address.php on line 20
+[24-Jun-2019 14:28:43 UTC] PHP Fatal error:  Interface 'Geocoder\Collection' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/Model/AddressCollection.php on line 20
+[24-Jun-2019 14:29:51 UTC] PHP Fatal error:  Interface 'Geocoder\Location' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/Model/Address.php on line 20

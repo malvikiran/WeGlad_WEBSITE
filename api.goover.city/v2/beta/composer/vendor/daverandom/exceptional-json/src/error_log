@@ -1,0 +1,3 @@
+[31-May-2019 04:24:53 UTC] PHP Fatal error:  Class 'ExceptionalJSON\Exception' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/daverandom/exceptional-json/src/DecodeErrorException.php on line 10
+[24-Jun-2019 14:39:52 UTC] PHP Fatal error:  Class 'ExceptionalJSON\Exception' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/daverandom/exceptional-json/src/EncodeErrorException.php on line 10
+[24-Jun-2019 14:40:20 UTC] PHP Fatal error:  Class 'ExceptionalJSON\Exception' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/daverandom/exceptional-json/src/DecodeErrorException.php on line 10

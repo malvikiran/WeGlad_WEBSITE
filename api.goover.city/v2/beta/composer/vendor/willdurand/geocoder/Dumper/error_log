@@ -1,0 +1,12 @@
+[14-May-2019 02:15:57 UTC] PHP Fatal error:  Class 'Geocoder\Dumper\AbstractDumper' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/Dumper/Gpx.php on line 21
+[14-May-2019 02:53:49 UTC] PHP Fatal error:  Interface 'Geocoder\Dumper\Dumper' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/Dumper/Wkb.php on line 20
+[14-May-2019 05:35:10 UTC] PHP Fatal error:  Class 'Geocoder\Dumper\AbstractArrayDumper' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/Dumper/GeoJson.php on line 20
+[14-May-2019 06:12:39 UTC] PHP Fatal error:  Class 'Geocoder\Dumper\AbstractArrayDumper' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/Dumper/GeoArray.php on line 20
+[14-May-2019 06:22:07 UTC] PHP Fatal error:  Interface 'Geocoder\Dumper\Dumper' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/Dumper/Wkt.php on line 20
+[14-May-2019 09:12:33 UTC] PHP Fatal error:  Class 'Geocoder\Dumper\AbstractDumper' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/Dumper/Kml.php on line 20
+[19-Jun-2019 18:36:28 UTC] PHP Fatal error:  Class 'Geocoder\Dumper\AbstractDumper' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/Dumper/Kml.php on line 20
+[24-Jun-2019 14:33:48 UTC] PHP Fatal error:  Class 'Geocoder\Dumper\AbstractDumper' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/Dumper/Gpx.php on line 21
+[24-Jun-2019 14:41:22 UTC] PHP Fatal error:  Interface 'Geocoder\Dumper\Dumper' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/Dumper/Wkt.php on line 20
+[24-Jun-2019 14:46:00 UTC] PHP Fatal error:  Class 'Geocoder\Dumper\AbstractArrayDumper' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/Dumper/GeoJson.php on line 20
+[24-Jun-2019 14:48:06 UTC] PHP Fatal error:  Interface 'Geocoder\Dumper\Dumper' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/Dumper/Wkb.php on line 20
+[28-Jun-2019 13:03:33 UTC] PHP Fatal error:  Class 'Geocoder\Dumper\AbstractArrayDumper' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/Dumper/GeoArray.php on line 20

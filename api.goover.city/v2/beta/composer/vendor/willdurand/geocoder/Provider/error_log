@@ -1,0 +1,2 @@
+[14-May-2019 11:34:52 UTC] PHP Fatal error:  Interface 'Geocoder\Provider\Provider' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/Provider/AbstractProvider.php on line 21
+[24-Jun-2019 14:32:29 UTC] PHP Fatal error:  Interface 'Geocoder\Provider\Provider' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/Provider/AbstractProvider.php on line 21

@@ -1,0 +1,4 @@
+[14-May-2019 10:28:17 UTC] PHP Fatal error:  Interface 'Geocoder\Query\Query' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/Query/GeocodeQuery.php on line 22
+[14-May-2019 10:37:45 UTC] PHP Fatal error:  Interface 'Geocoder\Query\Query' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/Query/ReverseQuery.php on line 21
+[25-Jun-2019 22:47:32 UTC] PHP Fatal error:  Interface 'Geocoder\Query\Query' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/Query/GeocodeQuery.php on line 22
+[28-Jun-2019 08:57:25 UTC] PHP Fatal error:  Interface 'Geocoder\Query\Query' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/Query/ReverseQuery.php on line 21

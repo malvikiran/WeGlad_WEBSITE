@@ -1,0 +1,1 @@
+[25-Jun-2019 22:46:51 UTC] PHP Fatal error:  Interface 'GuzzleHttp\Handler\CurlFactoryInterface' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 15

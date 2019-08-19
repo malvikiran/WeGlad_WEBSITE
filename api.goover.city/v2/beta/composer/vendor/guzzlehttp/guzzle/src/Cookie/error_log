@@ -1,0 +1,2 @@
+[07-Jul-2019 19:27:55 UTC] PHP Fatal error:  Class 'GuzzleHttp\Cookie\CookieJar' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php on line 7
+[08-Jul-2019 00:51:55 UTC] PHP Fatal error:  Class 'GuzzleHttp\Cookie\CookieJar' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php on line 7

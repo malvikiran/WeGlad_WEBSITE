@@ -1,0 +1,8 @@
+[13-May-2019 04:10:59 UTC] PHP Fatal error:  Interface 'Geocoder\Geocoder' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/StatefulGeocoder.php on line 23
+[13-May-2019 05:07:48 UTC] PHP Fatal error:  Interface 'Geocoder\Geocoder' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/ProviderAggregator.php on line 24
+[13-May-2019 06:42:29 UTC] PHP Fatal error:  Interface 'Geocoder\Provider\Provider' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/Geocoder.php on line 20
+[13-May-2019 06:51:57 UTC] PHP Fatal error:  Trait 'Geocoder\GeocoderTrait' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/TimedGeocoder.php on line 27
+[17-Jun-2019 13:38:06 UTC] PHP Fatal error:  Interface 'Geocoder\Geocoder' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/ProviderAggregator.php on line 24
+[19-Jun-2019 05:12:22 UTC] PHP Fatal error:  Interface 'Geocoder\Provider\Provider' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/Geocoder.php on line 20
+[19-Jun-2019 09:17:56 UTC] PHP Fatal error:  Interface 'Geocoder\Geocoder' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/StatefulGeocoder.php on line 23
+[19-Jun-2019 16:33:24 UTC] PHP Fatal error:  Trait 'Geocoder\GeocoderTrait' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/willdurand/geocoder/TimedGeocoder.php on line 27
