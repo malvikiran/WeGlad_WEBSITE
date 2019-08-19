@@ -1,0 +1,2 @@
+[16-Jun-2019 17:20:57 UTC] PHP Fatal error:  Trait 'League\Geotools\CoordinateCouple' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/league/geotools/src/Distance/Distance.php on line 27
+[25-Jun-2019 22:47:16 UTC] PHP Fatal error:  Trait 'League\Geotools\CoordinateCouple' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/league/geotools/src/Distance/Distance.php on line 27

@@ -1,0 +1,2 @@
+[11-May-2019 08:47:15 UTC] PHP Warning:  Class 'Roave\DoctrineSimpleCache\Exception\CacheException' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/roave/doctrine-simplecache/namespace-bc-aliases.php on line 3
+[17-Jun-2019 12:26:06 UTC] PHP Warning:  Class 'Roave\DoctrineSimpleCache\Exception\CacheException' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/roave/doctrine-simplecache/namespace-bc-aliases.php on line 3

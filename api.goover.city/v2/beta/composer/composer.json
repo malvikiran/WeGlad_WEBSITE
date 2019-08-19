@@ -1,0 +1,22 @@
+{
+  "name": "vendor_name/package_name",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "author's name",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "phpunit/phpunit": "*",
+    "php-http/guzzle6-adapter" :"*",
+    "norkunas/onesignal-php-api":"*",
+    "league/geotools": "*",
+    "stripe/stripe-php":"*",
+    "phpmailer/phpmailer": "*",
+    "browscap/browscap-php":"*",
+    "tmarois/google-places-api":"dev-master"
+  }
+}

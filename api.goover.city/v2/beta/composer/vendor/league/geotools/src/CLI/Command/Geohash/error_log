@@ -1,0 +1,2 @@
+[19-Jun-2019 05:11:27 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/league/geotools/src/CLI/Command/Geohash/Decode.php on line 24
+[19-Jun-2019 21:17:24 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/league/geotools/src/CLI/Command/Geohash/Encode.php on line 27

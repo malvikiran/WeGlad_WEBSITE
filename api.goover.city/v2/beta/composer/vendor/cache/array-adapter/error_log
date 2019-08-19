@@ -1,0 +1,1 @@
+[08-May-2019 02:59:52 UTC] PHP Fatal error:  Class 'Cache\Adapter\Common\AbstractCachePool' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/cache/array-adapter/ArrayCachePool.php on line 25

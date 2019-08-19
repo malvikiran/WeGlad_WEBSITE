@@ -1,0 +1,3 @@
+[10-May-2019 02:48:17 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/roave/doctrine-simplecache/test/unit/SimpleCacheAdapterTest.php on line 18
+[10-May-2019 05:48:11 UTC] PHP Fatal error:  Class 'Cache\IntegrationTests\SimpleCacheTest' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/roave/doctrine-simplecache/test/unit/CacheIntegrationTest.php on line 13
+[28-Jun-2019 08:29:01 UTC] PHP Fatal error:  Class 'Cache\IntegrationTests\SimpleCacheTest' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/roave/doctrine-simplecache/test/unit/CacheIntegrationTest.php on line 13

@@ -1,0 +1,4 @@
+[23-May-2019 15:24:56 UTC] PHP Fatal error:  Interface 'BrowscapPHP\Parser\Helper\GetPatternInterface' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/browscap/browscap-php/src/Parser/Helper/GetPattern.php on line 13
+[26-May-2019 03:09:26 UTC] PHP Fatal error:  Interface 'BrowscapPHP\Parser\Helper\GetDataInterface' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/browscap/browscap-php/src/Parser/Helper/GetData.php on line 17
+[19-Jun-2019 05:09:24 UTC] PHP Fatal error:  Interface 'BrowscapPHP\Parser\Helper\GetDataInterface' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/browscap/browscap-php/src/Parser/Helper/GetData.php on line 17
+[19-Jun-2019 08:59:01 UTC] PHP Fatal error:  Interface 'BrowscapPHP\Parser\Helper\GetPatternInterface' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/browscap/browscap-php/src/Parser/Helper/GetPattern.php on line 13

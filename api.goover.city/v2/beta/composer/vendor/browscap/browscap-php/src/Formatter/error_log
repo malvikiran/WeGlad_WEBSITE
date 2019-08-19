@@ -1,0 +1,4 @@
+[09-May-2019 12:45:40 UTC] PHP Fatal error:  Interface 'BrowscapPHP\Formatter\FormatterInterface' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/browscap/browscap-php/src/Formatter/PhpGetBrowser.php on line 9
+[11-May-2019 04:12:40 UTC] PHP Fatal error:  Interface 'BrowscapPHP\Formatter\FormatterInterface' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/browscap/browscap-php/src/Formatter/LegacyFormatter.php on line 9
+[17-Jun-2019 00:40:37 UTC] PHP Fatal error:  Interface 'BrowscapPHP\Formatter\FormatterInterface' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/browscap/browscap-php/src/Formatter/LegacyFormatter.php on line 9
+[17-Jun-2019 08:28:30 UTC] PHP Fatal error:  Interface 'BrowscapPHP\Formatter\FormatterInterface' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/browscap/browscap-php/src/Formatter/PhpGetBrowser.php on line 9

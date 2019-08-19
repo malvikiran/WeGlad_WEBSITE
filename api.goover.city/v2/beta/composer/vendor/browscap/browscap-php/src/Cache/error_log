@@ -1,0 +1,2 @@
+[11-May-2019 15:24:58 UTC] PHP Fatal error:  Interface 'BrowscapPHP\Cache\BrowscapCacheInterface' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/browscap/browscap-php/src/Cache/BrowscapCache.php on line 13
+[16-Jun-2019 22:09:19 UTC] PHP Fatal error:  Interface 'BrowscapPHP\Cache\BrowscapCacheInterface' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/browscap/browscap-php/src/Cache/BrowscapCache.php on line 13

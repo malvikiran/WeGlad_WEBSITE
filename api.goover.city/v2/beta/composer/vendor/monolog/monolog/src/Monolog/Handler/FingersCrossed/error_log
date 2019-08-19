@@ -1,0 +1,2 @@
+[30-Jun-2019 03:52:02 UTC] PHP Fatal error:  Interface 'Monolog\Handler\FingersCrossed\ActivationStrategyInterface' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ErrorLevelActivationStrategy.php on line 21
+[01-Jul-2019 16:10:35 UTC] PHP Fatal error:  Interface 'Monolog\Handler\FingersCrossed\ActivationStrategyInterface' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ChannelLevelActivationStrategy.php on line 36

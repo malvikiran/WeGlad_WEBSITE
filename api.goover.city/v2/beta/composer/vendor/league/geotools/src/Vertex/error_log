@@ -1,0 +1,2 @@
+[15-Jun-2019 14:51:04 UTC] PHP Fatal error:  Trait 'League\Geotools\CoordinateCouple' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/league/geotools/src/Vertex/Vertex.php on line 27
+[08-Jul-2019 02:11:07 UTC] PHP Fatal error:  Trait 'League\Geotools\CoordinateCouple' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/league/geotools/src/Vertex/Vertex.php on line 27

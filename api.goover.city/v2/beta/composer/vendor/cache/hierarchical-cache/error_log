@@ -1,0 +1,1 @@
+[07-May-2019 23:18:42 UTC] PHP Fatal error:  Interface 'Psr\Cache\CacheItemPoolInterface' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/cache/hierarchical-cache/HierarchicalPoolInterface.php on line 21

@@ -1,0 +1,9 @@
+[14-May-2019 18:50:18 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/monolog/monolog/tests/Monolog/TestCase.php on line 14
+[14-May-2019 19:00:20 UTC] PHP Fatal error:  Class 'Psr\Log\Test\LoggerInterfaceTest' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/monolog/monolog/tests/Monolog/PsrLogCompatTest.php on line 19
+[14-May-2019 19:18:26 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/monolog/monolog/tests/Monolog/RegistryTest.php on line 14
+[14-May-2019 19:46:50 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/monolog/monolog/tests/Monolog/LoggerTest.php on line 17
+[14-May-2019 20:43:38 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/monolog/monolog/tests/Monolog/ErrorHandlerTest.php on line 16
+[14-May-2019 20:53:06 UTC] PHP Fatal error:  Class 'Monolog\TestCase' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/monolog/monolog/tests/Monolog/SignalHandlerTest.php on line 22
+[25-Jun-2019 22:57:52 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/monolog/monolog/tests/Monolog/RegistryTest.php on line 14
+[25-Jun-2019 22:58:22 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/monolog/monolog/tests/Monolog/LoggerTest.php on line 17
+[26-Jun-2019 04:59:55 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/monolog/monolog/tests/Monolog/ErrorHandlerTest.php on line 16

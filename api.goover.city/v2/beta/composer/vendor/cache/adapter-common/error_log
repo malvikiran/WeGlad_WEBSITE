@@ -1,0 +1,4 @@
+[07-May-2019 18:44:08 UTC] PHP Fatal error:  Interface 'Cache\Adapter\Common\PhpCachePool' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/cache/adapter-common/AbstractCachePool.php on line 26
+[08-May-2019 00:53:23 UTC] PHP Fatal error:  Interface 'Cache\Adapter\Common\HasExpirationTimestampInterface' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/cache/adapter-common/PhpCacheItem.php on line 19
+[11-May-2019 22:51:04 UTC] PHP Fatal error:  Interface 'Cache\Adapter\Common\PhpCacheItem' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/cache/adapter-common/CacheItem.php on line 21
+[11-May-2019 23:08:51 UTC] PHP Fatal error:  Interface 'Cache\TagInterop\TaggableCacheItemPoolInterface' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/cache/adapter-common/PhpCachePool.php on line 19

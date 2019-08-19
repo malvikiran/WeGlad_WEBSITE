@@ -1,0 +1,2 @@
+[08-May-2019 17:02:15 UTC] PHP Fatal error:  Interface 'Psr\SimpleCache\CacheException' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/psr/simple-cache/src/InvalidArgumentException.php on line 11
+[24-Jun-2019 14:27:22 UTC] PHP Fatal error:  Interface 'Psr\SimpleCache\CacheException' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/psr/simple-cache/src/InvalidArgumentException.php on line 11

@@ -1,0 +1,1 @@
+[02-Jul-2019 04:48:07 UTC] PHP Fatal error:  Interface 'React\Promise\PromiseInterface' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/react/promise/tests/fixtures/SimpleFulfilledTestPromise.php on line 5

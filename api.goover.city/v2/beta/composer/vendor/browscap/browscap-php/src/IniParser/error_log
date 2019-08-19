@@ -1,0 +1,2 @@
+[14-May-2019 14:15:29 UTC] PHP Fatal error:  Interface 'BrowscapPHP\IniParser\ParserInterface' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/browscap/browscap-php/src/IniParser/IniParser.php on line 16
+[17-Jun-2019 08:00:21 UTC] PHP Fatal error:  Interface 'BrowscapPHP\IniParser\ParserInterface' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/browscap/browscap-php/src/IniParser/IniParser.php on line 16

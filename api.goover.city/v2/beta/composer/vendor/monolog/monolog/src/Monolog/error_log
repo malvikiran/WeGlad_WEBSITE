@@ -1,0 +1,2 @@
+[30-May-2019 00:20:46 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/monolog/monolog/src/Monolog/Logger.php on line 28
+[26-Jun-2019 08:18:30 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/monolog/monolog/src/Monolog/Logger.php on line 28

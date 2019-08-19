@@ -1,0 +1,4 @@
+[08-May-2019 07:53:07 UTC] PHP Fatal error:  Interface 'BrowscapPHP\BrowscapUpdaterInterface' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/browscap/browscap-php/src/BrowscapUpdater.php on line 28
+[08-May-2019 23:20:55 UTC] PHP Fatal error:  Interface 'BrowscapPHP\BrowscapInterface' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/browscap/browscap-php/src/Browscap.php on line 15
+[13-Jun-2019 15:24:02 UTC] PHP Fatal error:  Interface 'BrowscapPHP\BrowscapInterface' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/browscap/browscap-php/src/Browscap.php on line 15
+[13-Jun-2019 17:08:27 UTC] PHP Fatal error:  Interface 'BrowscapPHP\BrowscapUpdaterInterface' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/browscap/browscap-php/src/BrowscapUpdater.php on line 28

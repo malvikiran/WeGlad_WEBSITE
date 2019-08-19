@@ -1,0 +1,2 @@
+[17-Jun-2019 00:26:06 UTC] PHP Fatal error:  Interface 'League\Geotools\BoundingBox\BoundingBoxInterface' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/league/geotools/src/BoundingBox/BoundingBox.php on line 25
+[08-Jul-2019 08:32:43 UTC] PHP Fatal error:  Interface 'League\Geotools\BoundingBox\BoundingBoxInterface' not found in /home/goover/public_html/api.goover.city/v2/beta/composer/vendor/league/geotools/src/BoundingBox/BoundingBox.php on line 25
