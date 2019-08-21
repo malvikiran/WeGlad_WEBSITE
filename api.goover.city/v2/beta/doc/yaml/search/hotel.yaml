@@ -38,6 +38,14 @@ parameters:
       description: >
           Number of adult into the room
       optional :No
+    - name : hotelService
+      description: >
+          Array of service id [1,2,3,4]
+      optional :No
+    - name : roomService
+      description: >
+          Array of service id [1,2,3,4]
+      optional :No
 
 
 sample_url: search/hotel.php
