@@ -24,7 +24,42 @@ sample_request: |
 
 
 sample_response: |  
-
+    {
+       "success": true,
+       "data": [
+          {
+             "idRoom": 1,
+             "RoomName": "Camera Matrimoniale",
+             "RoomDesc": "ok",
+             "RoomCost": 200.06,
+             "RoomAccessible": 0,
+             "N": 2,
+             "RoomAdult": 5,
+             "RoomChild": 2
+          },
+          {
+             "idRoom": 2,
+             "RoomName": "Camera Matrimoniale Accessibile",
+             "RoomDesc": "yre",
+             "RoomCost": 50,
+             "RoomAccessible": 1,
+             "N": 2,
+             "RoomAdult": 0,
+             "RoomChild": 0
+          },
+          {
+             "idRoom": 3,
+             "RoomName": "Camera Singola",
+             "RoomDesc": "ndbdh",
+             "RoomCost": 66.55,
+             "RoomAccessible": 0,
+             "N": 3,
+             "RoomAdult": 0,
+             "RoomChild": 0
+          }
+       ],
+       "status": 200
+    }
 	
 sample_error: |
 

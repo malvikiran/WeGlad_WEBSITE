@@ -1,0 +1,40 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: hotel/type/addToRoom
+resource_url: hotel/type/addToRoom.php
+description: > 
+    Add a type for Rooms (SUPER ADMIN)
+parameters:
+    - name : token
+      description: >
+          The user Token
+      optional :No
+    - name : idType
+      description: >
+          the id of the type
+      optional :No
+
+sample_url: hotel/type/addToRoom.php
+sample_request: |
+
+
+sample_response: |  
+
+    {
+      "success":true,
+      "data":null
+      "status":200
+    }
+
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":CODE
+    }

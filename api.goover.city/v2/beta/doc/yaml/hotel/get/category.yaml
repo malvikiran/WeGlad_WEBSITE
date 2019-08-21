@@ -24,7 +24,24 @@ sample_request: |
 
 
 sample_response: |  
-
+    {
+       "success": true,
+       "data": [
+          {
+             "idCategory": 1,
+             "CategoryName": "Hall",
+             "pics": [
+                {
+                   "Image_idImage": 5
+                },
+                {
+                   "Image_idImage": 4
+                }
+             ]
+          }
+       ],
+       "status": 200
+    }
 
 	
 sample_error: |

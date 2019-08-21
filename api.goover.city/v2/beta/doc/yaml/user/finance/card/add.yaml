@@ -1,0 +1,49 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: user/card/add
+resource_url: user/card/add.php
+description: > 
+    Add account to the db
+parameters:
+    - name : token
+      description: >
+          The user Token
+      optional :No
+    - name : number
+      description: >
+          The number of the card
+      optional :No
+    - name : exp
+      description: >
+          The expire date 00/00
+      optional :No
+    - name : cvc
+      description: >
+          The CVC of the card
+      optional :No
+
+
+sample_url: user/card/add.php
+sample_request: |
+
+
+sample_response: |  
+
+    {
+       "success": true,
+       "data": null,
+       "status": 200
+    }
+	
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":CODE
+    }

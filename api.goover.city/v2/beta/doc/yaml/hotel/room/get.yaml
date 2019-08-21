@@ -18,7 +18,7 @@ parameters:
       description: >
           The date end
       optional :Yes
-    - name : hotel
+    - name : idHotel
       description: >
           The hotel id.
       optional :No
@@ -28,7 +28,22 @@ sample_request: |
 
 
 sample_response: |
-
+    {
+       "success": true,
+       "data": [
+          {
+             "idRoom": "1",
+             "RoomName": "Camera Matrimoniale",
+             "RoomDesc": "ok",
+             "RoomAdult": "5",
+             "RoomChild": "2",
+             "RoomAccessible": "0",
+             "RoomCost": "200.06",
+             "N": "2"
+          }
+       ],
+       "status": 200
+    }
 
 sample_error: |
 

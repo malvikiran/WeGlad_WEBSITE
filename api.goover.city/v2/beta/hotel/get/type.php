@@ -16,3 +16,4 @@ $ar=Database::execute("SELECT idType, IT AS name FROM Type LEFT JOIN Translation
 
 Response::printResponse(true, $ar,DONE);
 
+

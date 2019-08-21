@@ -1,0 +1,32 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: image/room
+resource_url: image/room.php
+description: > 
+    Get room Image
+parameters:
+    - name : image
+      description: >
+          The id of the image
+      optional :No
+
+
+sample_url: image/room.php
+sample_request: |
+
+
+sample_response: |  
+    IMAGE
+	
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":CODE
+    }

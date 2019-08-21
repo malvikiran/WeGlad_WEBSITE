@@ -1,0 +1,55 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: user/hotel/pay
+resource_url: user/hotel/pay.php
+description: > 
+    Pay the room selected in the range.
+parameters:
+    - name : token
+      description: >
+          The user Token
+      optional :No
+    - name : costs
+      description: >
+          A List of maps composed as [{length:3, idRoom:2}] (the length is the number of the same room to buy, the id of the room)
+      optional :No
+    - name : dataStart
+      description: >
+          The start date
+      optional :No
+    - name : dataEnd
+      description: >
+          The end date
+      optional :No
+    - name : idHotel
+      description: >
+          The id of the hotel
+      optional :No
+
+
+sample_url: user/hotel/pay.php
+sample_request: |
+
+
+sample_response: |  
+
+    {
+       "success": true,
+       "data": {
+          "price": 14247.45
+       },
+       "status": 200
+    }
+	
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":CODE
+    }

@@ -1,0 +1,48 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: hotel/type/edit
+resource_url: hotel/type/edit.php
+description: > 
+    Edit a type (SUPER ADMIN)
+parameters:
+    - name : token
+      description: >
+          The user Token
+      optional :No
+    - name : idTrans
+      description: >
+          the id of the translation
+      optional :No
+    - name : idType
+      description: >
+          the id of the type
+      optional :No
+    - name : image
+      description: >
+          base64 SVG Image
+      optional :yes
+
+sample_url: hotel/type/edit.php
+sample_request: |
+
+
+sample_response: |  
+    {
+      "success":true,
+      "data":null
+      "status":200
+    }
+
+
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":CODE
+    }

@@ -25,6 +25,18 @@ sample_request: |
 
 sample_response: |
 
+    {
+       "success": true,
+       "data": [
+          {
+             "RoomCost": 200.06,
+             "SubRoom_PriceEnd": "2019-08-28",
+             "SubRoom_PriceStart": "2019-08-20",
+             "SubRoom_PriceCost": 50
+          }
+       ],
+       "status": 200
+    }
 
 sample_error: |
 

@@ -22,17 +22,19 @@ sample_request: |
 
 sample_response: |  
 
-    {
-      "success":true,
-      "data":
-        {
-          "UserCode":"UserCode",
-          "UserName":"UserName",
-          "UserEmailVerify":0|1
-        },
-      "status":200
-    }
-	
+  {
+    "success":true,
+    "data":
+      {
+        "UserCode":"6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+        "UserName":"Amministrazione",
+        "UserEmailVerify":1,
+        "isSuper":1,
+        "isAdmin":1
+      },
+    "status":200
+  }
+
 sample_error: |
 
     {

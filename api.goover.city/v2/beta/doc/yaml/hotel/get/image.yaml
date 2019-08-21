@@ -21,7 +21,21 @@ sample_request: |
 
 sample_response: |
 
-
+    {
+       "success": true,
+       "data": [
+          {
+             "Image_idImage": 35
+          },
+          {
+             "Image_idImage": 3
+          },
+          {
+             "Image_idImage": 2
+          }
+       ],
+       "status": 200
+    }
 	
 sample_error: |
 

@@ -1,0 +1,135 @@
+CODE
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: user/booking
+resource_url: user/booking.php
+description: > 
+    Get all booked rooms from this user
+parameters:
+    - name : token
+      description: >
+          The user Token
+      optional :No
+
+sample_url: user/booking.php
+sample_request: |
+
+
+sample_response: |  
+  {
+     "success": true,
+     "data": [
+        {
+           "idBook": 22,
+           "idRoom": 3,
+           "RoomName": "Camera Singola",
+           "BookDateStart": "2019-08-15",
+           "BookDateEnd": "2019-08-30",
+           "HotelName": "Hotel Relais Santo Stefanos",
+           "idHotel": 1
+        },
+        {
+           "idBook": 10,
+           "idRoom": 2,
+           "RoomName": "Camera Matrimoniale Accessibile",
+           "BookDateStart": "2019-08-20",
+           "BookDateEnd": "2019-08-29",
+           "HotelName": "Hotel Relais Santo Stefanos",
+           "idHotel": 1
+        },
+        {
+           "idBook": 6,
+           "idRoom": 1,
+           "RoomName": "Camera Matrimoniale",
+           "BookDateStart": "2019-08-21",
+           "BookDateEnd": "2019-08-30",
+           "HotelName": "Hotel Relais Santo Stefanos",
+           "idHotel": 1
+        },
+        {
+           "idBook": 5,
+           "idRoom": 1,
+           "RoomName": "Camera Matrimoniale",
+           "BookDateStart": "2019-08-21",
+           "BookDateEnd": "2019-08-30",
+           "HotelName": "Hotel Relais Santo Stefanos",
+           "idHotel": 1
+        },
+        {
+           "idBook": 31,
+           "idRoom": 5,
+           "RoomName": "la",
+           "BookDateStart": "2019-08-22",
+           "BookDateEnd": "2019-08-23",
+           "HotelName": "test",
+           "idHotel": 4
+        },
+        {
+           "idBook": 67,
+           "idRoom": 1,
+           "RoomName": "Camera Matrimoniale",
+           "BookDateStart": "2019-09-11",
+           "BookDateEnd": "2019-09-26",
+           "HotelName": "Hotel Relais Santo Stefanos",
+           "idHotel": 1
+        },
+        {
+           "idBook": 8,
+           "idRoom": 2,
+           "RoomName": "Camera Matrimoniale Accessibile",
+           "BookDateStart": "2019-10-09",
+           "BookDateEnd": "2019-10-11",
+           "HotelName": "Hotel Relais Santo Stefanos",
+           "idHotel": 1
+        },
+        {
+           "idBook": 9,
+           "idRoom": 1,
+           "RoomName": "Camera Matrimoniale",
+           "BookDateStart": "2019-10-09",
+           "BookDateEnd": "2019-10-11",
+           "HotelName": "Hotel Relais Santo Stefanos",
+           "idHotel": 1
+        },
+        {
+           "idBook": 7,
+           "idRoom": 2,
+           "RoomName": "Camera Matrimoniale Accessibile",
+           "BookDateStart": "2019-10-09",
+           "BookDateEnd": "2019-10-11",
+           "HotelName": "Hotel Relais Santo Stefanos",
+           "idHotel": 1
+        },
+        {
+           "idBook": 65,
+           "idRoom": 1,
+           "RoomName": "Camera Matrimoniale",
+           "BookDateStart": "2019-10-17",
+           "BookDateEnd": "2019-10-18",
+           "HotelName": "Hotel Relais Santo Stefanos",
+           "idHotel": 1
+        },
+        {
+           "idBook": 66,
+           "idRoom": 1,
+           "RoomName": "Camera Matrimoniale",
+           "BookDateStart": "2019-10-17",
+           "BookDateEnd": "2019-10-18",
+           "HotelName": "Hotel Relais Santo Stefanos",
+           "idHotel": 1
+        }
+     ],
+     "status": 200
+  }
+	
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":CODE
+    }

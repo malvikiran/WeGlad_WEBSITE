@@ -54,7 +54,9 @@
 	            <span class="icon-bar"></span>
 	            <span class="icon-bar"></span>
 	          </button>
-              <a class="navbar-brand" href="/"><?php echo $brand_name ?></a>
+              <a class="navbar-brand"  style="font-weight: bold" href="index.php"><?php echo $brand_name ?></a>
+              <a class="navbar-brand" href="hotel.php">Hotel</a>
+                <a class="navbar-brand" href="website.php">API FOR THE WEBSITE</a>
 	        </div>
 
 

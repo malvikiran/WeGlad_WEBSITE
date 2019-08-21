@@ -19,4 +19,5 @@ $tr=Database::execute("SELECT Image_idImage FROM Hotel_has_Image WHERE Hotel_idH
 
 
 
+
 Response::printResponse(true, $tr, DONE);

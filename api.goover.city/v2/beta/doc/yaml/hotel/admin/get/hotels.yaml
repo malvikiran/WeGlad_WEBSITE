@@ -21,7 +21,38 @@ sample_request: |
 
 sample_response: |
 
-
+    {
+       "success": true,
+       "data": [
+          {
+             "idHotel": 1,
+             "HotelName": "Hotel Relais Santo Stefanos",
+             "HotelDesc": "Un posto stupendos",
+             "HotelLng": 8.074997,
+             "HotelLat": 45.51665,
+             "HotelCheckOut": "20:59:00",
+             "HotelCheckIn": "17:01:00",
+             "HotelStar": 3,
+             "HotelAccessible": 1,
+             "isEnabled": 1,
+             "verified": 1
+          },
+          {
+             "idHotel": 4,
+             "HotelName": "test",
+             "HotelDesc": "yed",
+             "HotelLng": 7.614727,
+             "HotelLat": 44.326725,
+             "HotelCheckOut": "10:00:00",
+             "HotelCheckIn": "14:00:00",
+             "HotelStar": 4,
+             "HotelAccessible": 0,
+             "isEnabled": 1,
+             "verified": 1
+          }
+       ],
+       "status": 200
+    }
 sample_error: |
 
     {

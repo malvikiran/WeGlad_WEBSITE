@@ -1,0 +1,197 @@
+# file_name : relative path is w.r.t. pub directory
+# absolute file path : make sure web server can read the file
+#
+---
+api1 :
+    name : "hotel/add/category/image.php"
+    description : >
+        Add an image to a category
+    file_name : "yaml/hotel/add/category/image.yaml"
+api2 :
+    name : "hotel/admin/add/category/get.php"
+    description : >
+        Get categories
+    file_name : "yaml/hotel/admin/add/category/get.yaml"
+api3 :
+    name : "hotel/admin/add/room/add.php"
+    description : >
+        Add an image to a category like an Admin
+    file_name : "yaml/hotel/admin/add/room/add.yaml"
+api4 :
+    name : "hotel/admin/add/assign.php"
+    description : >
+        Assign Book to a Room Name
+    file_name : "yaml/hotel/admin/add/assign.yaml"
+api5 :
+    name : "hotel/admin/add/book.php"
+    description : >
+        Add a mock book from the hotel (Is used to block a room if is booked into another site)
+    file_name : "yaml/hotel/admin/add/book.yaml"
+api6 :
+    name : "hotel/admin/add/pics.php"
+    description : >
+        Add pics to the hotel page
+    file_name : "yaml/hotel/admin/add/pics.yaml"
+api7 :
+    name : "hotel/admin/add/stripe.php"
+    description : >
+        Connect stripe and activate hotel
+    file_name : "yaml/hotel/admin/add/stripe.yaml"
+api8 :
+    name : "hotel/admin/add/type.php"
+    description : >
+        It's a switch to turn on and off services to an hotel.
+    file_name : "yaml/hotel/admin/add/type.yaml"
+api9 :
+    name : "hotel/admin/delete/book.php"
+    description : >
+        Remove a book if it's not alredy payed.
+    file_name : "yaml/hotel/admin/delete/book.yaml"
+api10 :
+    name : "hotel/admin/get/books.php"
+    description : >
+        get all books and reservation
+    file_name : "yaml/hotel/admin/get/books.yaml"
+api11 :
+    name : "hotel/admin/get/hotels.php"
+    description : >
+        get all hotels that this account can manage
+    file_name : "yaml/hotel/admin/get/hotels.yaml"
+api12 :
+    name : "hotel/admin/get/rooms.php"
+    description : >
+        get all rooms for this hotel
+    file_name : "yaml/hotel/admin/get/rooms.yaml"
+api13 :
+    name : "hotel/admin/get/roomsName.php"
+    description : >
+        get all Rooms name for this room (AKA SubRoom)
+    file_name : "yaml/hotel/admin/get/roomsName.yaml"
+api14 :
+    name : "hotel/admin/get/types.php"
+    description : >
+        Get all available types for this hotel (AKA Services)
+    file_name : "yaml/hotel/admin/get/types.yaml"
+api15 :
+    name : "hotel/admin/reorder/image.php"
+    description : >
+        Reorder the pics of the hotel
+    file_name : "yaml/hotel/admin/reorder/image.yaml"
+api16 :
+    name : "hotel/admin/update/open.php"
+    description : >
+        It's a switch. open or close the hotel
+    file_name : "yaml/hotel/admin/update/open.yaml"
+api17 :
+    name : "hotel/admin/update.php"
+    description : >
+        Update hotel information
+    file_name : "yaml/hotel/admin/update.yaml"
+
+
+
+api18 :
+    name : "hotel/get/image/first.php"
+    description : >
+        Get the hotel front image
+    file_name : "yaml/hotel/get/image/first.yaml"
+api19 :
+    name : "hotel/get/category.php"
+    description : >
+        Get the hotel categories (AKA category of photos made by the user throught our app)
+    file_name : "yaml/hotel/get/category.yaml"
+api20 :
+    name : "hotel/get/image.php"
+    description : >
+        Get all hotel pics
+    file_name : "yaml/hotel/get/image.yaml"
+api21 :
+    name : "hotel/get/type.php"
+    description : >
+        Get the hotel types (AKA Services)
+    file_name : "yaml/hotel/get/typeRoom.yaml"
+api22 :
+    name : "hotel/room/admin/add/pics.php"
+    description : >
+        Add Room photos
+    file_name : "yaml/hotel/room/admin/add/pics.yaml"
+api23 :
+    name : "hotel/room/admin/add/price.php"
+    description : >
+        Add a price for a range of dates to the room. This even solve the conflicts.
+    file_name : "yaml/hotel/room/admin/add/price.yaml"
+api24 :
+    name : "hotel/room/admin/add/type.php"
+    description : >
+        It's a switch for the type of the room (AKA Services)
+    file_name : "yaml/hotel/room/admin/add/type.yaml"
+api25 :
+    name : "hotel/room/admin/get/allCost.php"
+    description : >
+        Get all cost for a room (Is used to draw the calendar)
+    file_name : "yaml/hotel/room/admin/get/allCost.yaml"
+api26 :
+    name : "hotel/room/admin/get/types.php"
+    description : >
+        Get types for the room (AKA Services)
+    file_name : "yaml/hotel/room/admin/get/types.yaml"
+api27 :
+    name : "hotel/room/admin/reorder/image.php"
+    description : >
+        Reorder room pics
+    file_name : "yaml/hotel/room/admin/reorder/image.yaml"
+api28 :
+    name : "hotel/room/admin/update.php"
+    description : >
+        Update Room information
+    file_name : "yaml/hotel/room/admin/update.yaml"
+api29 :
+    name : "hotel/room/get/image/first.php"
+    description : >
+        Get Room Front pic
+    file_name : "yaml/hotel/room/get/image/first.yaml"
+api30 :
+    name : "hotel/room/get/image.php"
+    description : >
+        Get Room Images
+    file_name : "yaml/hotel/room/get/image.yaml"
+api31 :
+    name : "hotel/room/get/type.php"
+    description : >
+        Get room types (AKA Services)
+    file_name : "yaml/hotel/room/get/type.yaml"
+api32 :
+    name : "hotel/room/get.php"
+    description : >
+        Get all room for an hotel
+    file_name : "yaml/hotel/room/get.yaml"
+api33 :
+    name : "hotel/type/add.php"
+    description : >
+        Add type to the db (AKA Services) (SUPERADMIN)
+    file_name : "yaml/hotel/type/add.yaml"
+api34 :
+    name : "hotel/type/addToRoom.php"
+    description : >
+        Set a type to been used for the rooms (SUPERADMIN)
+    file_name : "yaml/hotel/type/addToRoom.yaml"
+api35 :
+    name : "hotel/type/delete.php"
+    description : >
+        Delete a type (SUPERADMIN)
+    file_name : "yaml/hotel/type/delete.yaml"
+api36 :
+    name : "hotel/type/edit.php"
+    description : >
+       Edit a type (SUPERADMIN)
+    file_name : "yaml/hotel/type/edit.yaml"
+api37 :
+    name : "hotel/type/get.php"
+    description : >
+        Get type (SUPERADMIN)
+    file_name : "yaml/hotel/type/get.yaml"
+api38 :
+    name : "hotel/get.php"
+    description : >
+        Get Hotel info
+    file_name : "yaml/hotel/get.yaml"

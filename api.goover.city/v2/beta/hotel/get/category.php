@@ -7,6 +7,7 @@
  */
 
 
+
 include_once ("../../autoload.php");
 checkInput(array($_POST["idHotel"]));
 

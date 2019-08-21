@@ -1,0 +1,41 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: user/card/default
+resource_url: user/card/default.php
+description: > 
+    Add account to the db
+parameters:
+    - name : token
+      description: >
+          The user Token
+      optional :No
+    - name : id
+      description: >
+          The id card
+      optional :No
+
+
+sample_url: user/card/default.php
+sample_request: |
+
+
+sample_response: |  
+
+    {
+       "success": true,
+       "data": null,
+       "status": 200
+    }
+	
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":CODE
+    }

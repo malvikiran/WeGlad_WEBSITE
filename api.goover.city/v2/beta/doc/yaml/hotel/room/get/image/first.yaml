@@ -22,7 +22,8 @@ sample_request: |
 
 sample_response: |  
 
-	
+	IMAGE
+
 sample_error: |
 
     {

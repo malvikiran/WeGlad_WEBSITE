@@ -1,0 +1,57 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: search/getTypes
+resource_url: search/getTypes.php
+description: > 
+    Get Types for the search bar to use as filters.
+parameters:
+
+
+sample_url: search/getTypes.php
+sample_request: |
+
+
+sample_response: |  
+    {
+       "success": true,
+       "data": {
+          "room": [
+             {
+                "idType": 16,
+                "name": "Doccia"
+             }
+          ],
+          "hotel": [
+             {
+                "idType": 10,
+                "name": "Ristorante"
+             },
+             {
+                "idType": 11,
+                "name": "Pub"
+             },
+             {
+                "idType": 12,
+                "name": "Bar"
+             },
+             {
+                "idType": 15,
+                "name": "WC"
+             }
+          ]
+       },
+       "status": 200
+    }
+	
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":CODE
+    }

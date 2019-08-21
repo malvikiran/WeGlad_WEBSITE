@@ -1,0 +1,37 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: user/confirm/email
+resource_url: user/confirm/email.php
+description: > 
+    Add account to the db
+parameters:
+    - name : c
+      description: >
+          The confirmation code
+      optional :No
+
+
+sample_url: user/confirm/email.php
+sample_request: |
+
+
+sample_response: |  
+
+    {
+      "success":true,
+      "data":null,
+      "status":200
+    }
+	
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":CODE
+    }

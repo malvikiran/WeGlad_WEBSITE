@@ -24,7 +24,37 @@ sample_request: |
 
 
 sample_response: |  
-
+    {
+       "success": true,
+       "data": [
+          {
+             "idType": 10,
+             "name": "Ristorante",
+             "isSel": 0
+          },
+          {
+             "idType": 11,
+             "name": "Pub",
+             "isSel": 0
+          },
+          {
+             "idType": 12,
+             "name": "Bar",
+             "isSel": 0
+          },
+          {
+             "idType": 15,
+             "name": "WC",
+             "isSel": 0
+          },
+          {
+             "idType": 18,
+             "name": "Ospedale",
+             "isSel": 0
+          }
+       ],
+       "status": 200
+    }
 	
 sample_error: |
 

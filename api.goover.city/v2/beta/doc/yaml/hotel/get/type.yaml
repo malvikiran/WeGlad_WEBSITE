@@ -21,7 +21,28 @@ sample_request: |
 
 
 sample_response: |  
-
+    {
+       "success": true,
+       "data": [
+          {
+             "idType": 10,
+             "name": "Ristorante"
+          },
+          {
+             "idType": 11,
+             "name": "Pub"
+          },
+          {
+             "idType": 12,
+             "name": "Bar"
+          },
+          {
+             "idType": 15,
+             "name": "WC"
+          }
+       ],
+       "status": 200
+    }
 	
 sample_error: |
 

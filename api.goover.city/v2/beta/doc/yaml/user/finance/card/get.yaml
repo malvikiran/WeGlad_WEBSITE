@@ -1,0 +1,52 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: user/card/get
+resource_url: user/card/get.php
+description: > 
+    Get all card for this account. The first one is the default
+parameters:
+    - name : token
+      description: >
+          The user Token
+      optional :No
+
+
+sample_url: user/card/get.php
+sample_request: |
+
+
+sample_response: |  
+
+    {
+       "success": true,
+       "data": [
+          {
+             "id": "card_1F84dDCGSG3y8XOFrs3UMYjW",
+             "last4": "4242",
+             "exp_month": 1,
+             "exp_year": 2020,
+             "brand": "Visa"
+          },
+          {
+             "id": "card_1F83PMCGSG3y8XOFkpvQ1CGb",
+             "last4": "0005",
+             "exp_month": 3,
+             "exp_year": 2020,
+             "brand": "American Express"
+          }
+       ],
+       "status": 200
+    }
+	
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":CODE
+    }

@@ -24,7 +24,183 @@ sample_request: |
 
 
 sample_response: |  
-
+    {
+       "success": true,
+       "data": {
+          "today": [],
+          "tomorrow": [
+             {
+                "idBook": 10,
+                "bookCode": "0daf0168687e201222df49ed56a58f2ada245814d10bed2066a7304098648bc3",
+                "isFromHotel": 0,
+                "idUser": 1,
+                "idUserEncode": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+                "UserName": "aglads.srl@gmail.com",
+                "BookDateStart": "2019-08-20",
+                "BookDateEnd": "2019-08-29",
+                "RoomName": "Camera Matrimoniale Accessibile",
+                "SubRoomName": "000",
+                "idRoom": 2,
+                "isPayed": 1
+             },
+             {
+                "idBook": 5,
+                "bookCode": "04cfe30accdb72e30ae97df9c153e832dbda2c6d4da28bf02e052c13ca3fef6d",
+                "isFromHotel": 0,
+                "idUser": 1,
+                "idUserEncode": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+                "UserName": "aglads.srl@gmail.com",
+                "BookDateStart": "2019-08-21",
+                "BookDateEnd": "2019-08-30",
+                "RoomName": "Camera Matrimoniale",
+                "SubRoomName": "000",
+                "idRoom": 1,
+                "isPayed": 1
+             },
+             {
+                "idBook": 6,
+                "bookCode": "04cfe30accdb72e30ae97df9c153e832dbda2c6d4da28bf02e052c13ca3fef6d",
+                "isFromHotel": 0,
+                "idUser": 1,
+                "idUserEncode": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+                "UserName": "aglads.srl@gmail.com",
+                "BookDateStart": "2019-08-21",
+                "BookDateEnd": "2019-08-30",
+                "RoomName": "Camera Matrimoniale",
+                "SubRoomName": "000",
+                "idRoom": 1,
+                "isPayed": 1
+             },
+             {
+                "idBook": 67,
+                "bookCode": "59a394385eb8dec0f5dd510bd330bc7f35d94ace6b88d9d7d43e228f5673017c",
+                "isFromHotel": 0,
+                "idUser": 1,
+                "idUserEncode": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+                "UserName": "aglads.srl@gmail.com",
+                "BookDateStart": "2019-09-11",
+                "BookDateEnd": "2019-09-26",
+                "RoomName": "Camera Matrimoniale",
+                "SubRoomName": "000",
+                "idRoom": 1,
+                "isPayed": 1
+             },
+             {
+                "idBook": 7,
+                "bookCode": "e0b0459ed256bc76887be568df925b30b871072f8c47e0b686f0bfc76b50a9e9",
+                "isFromHotel": 0,
+                "idUser": 1,
+                "idUserEncode": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+                "UserName": "aglads.srl@gmail.com",
+                "BookDateStart": "2019-10-09",
+                "BookDateEnd": "2019-10-11",
+                "RoomName": "Camera Matrimoniale Accessibile",
+                "SubRoomName": "000",
+                "idRoom": 2,
+                "isPayed": 1
+             },
+             {
+                "idBook": 8,
+                "bookCode": "e0b0459ed256bc76887be568df925b30b871072f8c47e0b686f0bfc76b50a9e9",
+                "isFromHotel": 0,
+                "idUser": 1,
+                "idUserEncode": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+                "UserName": "aglads.srl@gmail.com",
+                "BookDateStart": "2019-10-09",
+                "BookDateEnd": "2019-10-11",
+                "RoomName": "Camera Matrimoniale Accessibile",
+                "SubRoomName": "000",
+                "idRoom": 2,
+                "isPayed": 1
+             },
+             {
+                "idBook": 9,
+                "bookCode": "e0b0459ed256bc76887be568df925b30b871072f8c47e0b686f0bfc76b50a9e9",
+                "isFromHotel": 0,
+                "idUser": 1,
+                "idUserEncode": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+                "UserName": "aglads.srl@gmail.com",
+                "BookDateStart": "2019-10-09",
+                "BookDateEnd": "2019-10-11",
+                "RoomName": "Camera Matrimoniale",
+                "SubRoomName": "000",
+                "idRoom": 1,
+                "isPayed": 1
+             },
+             {
+                "idBook": 66,
+                "bookCode": "e804b3779a376bad261efbf61287fb1eb4a3c1da5b35c1556e20051602053d17",
+                "isFromHotel": 0,
+                "idUser": 1,
+                "idUserEncode": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+                "UserName": "aglads.srl@gmail.com",
+                "BookDateStart": "2019-10-17",
+                "BookDateEnd": "2019-10-18",
+                "RoomName": "Camera Matrimoniale",
+                "SubRoomName": "000",
+                "idRoom": 1,
+                "isPayed": 1
+             },
+             {
+                "idBook": 65,
+                "bookCode": "e804b3779a376bad261efbf61287fb1eb4a3c1da5b35c1556e20051602053d17",
+                "isFromHotel": 0,
+                "idUser": 1,
+                "idUserEncode": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+                "UserName": "aglads.srl@gmail.com",
+                "BookDateStart": "2019-10-17",
+                "BookDateEnd": "2019-10-18",
+                "RoomName": "Camera Matrimoniale",
+                "SubRoomName": "000",
+                "idRoom": 1,
+                "isPayed": 1
+             },
+             {
+                "idBook": 70,
+                "bookCode": "4feb5a04ff0c45b4ddd9e53d7c9bc154b3d35b4a8f24b4d9f0713953d080548c",
+                "isFromHotel": 0,
+                "idUser": 1,
+                "idUserEncode": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+                "UserName": "aglads.srl@gmail.com",
+                "BookDateStart": "2021-08-07",
+                "BookDateEnd": "2021-08-22",
+                "RoomName": "Camera Matrimoniale",
+                "SubRoomName": "000",
+                "idRoom": 1,
+                "isPayed": 1
+             },
+             {
+                "idBook": 71,
+                "bookCode": "4feb5a04ff0c45b4ddd9e53d7c9bc154b3d35b4a8f24b4d9f0713953d080548c",
+                "isFromHotel": 0,
+                "idUser": 1,
+                "idUserEncode": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+                "UserName": "aglads.srl@gmail.com",
+                "BookDateStart": "2021-08-07",
+                "BookDateEnd": "2021-08-22",
+                "RoomName": "Camera Matrimoniale",
+                "SubRoomName": "000",
+                "idRoom": 1,
+                "isPayed": 1
+             },
+             {
+                "idBook": 72,
+                "bookCode": "4feb5a04ff0c45b4ddd9e53d7c9bc154b3d35b4a8f24b4d9f0713953d080548c",
+                "isFromHotel": 0,
+                "idUser": 1,
+                "idUserEncode": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+                "UserName": "aglads.srl@gmail.com",
+                "BookDateStart": "2021-08-07",
+                "BookDateEnd": "2021-08-22",
+                "RoomName": "Camera Matrimoniale",
+                "SubRoomName": "000",
+                "idRoom": 1,
+                "isPayed": 1
+             }
+          ]
+       },
+       "status": 200
+    }
 	
 sample_error: |
 

@@ -36,7 +36,24 @@ sample_request: |
 
 
 sample_response: |  
-
+    {
+       "success": true,
+       "data": [
+          {
+             "idSubRoom": 1,
+             "Room_idRoom": 1,
+             "SubRoomName": "123",
+             "SubRoomTme": "2019-08-03 23:54:50"
+          },
+          {
+             "idSubRoom": 2,
+             "Room_idRoom": 1,
+             "SubRoomName": "109",
+             "SubRoomTme": "2019-08-03 23:54:50"
+          }
+       ],
+       "status": 200
+    }
 	
 sample_error: |
 

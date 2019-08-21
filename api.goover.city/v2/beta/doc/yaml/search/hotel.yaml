@@ -1,0 +1,79 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: search/hotel
+resource_url: search/hotel.php
+description: > 
+    Search Hotel
+parameters:
+    - name : q
+      description: >
+          The string to search
+      optional :No
+    - name : lat
+      description: >
+          Latitude of the user
+      optional :No
+    - name : lng
+      description: >
+          Longitude of the user
+      optional :No
+    - name : start
+      description: >
+          Start Date
+      optional :No
+    - name : end
+      description: >
+          End Date
+      optional :No
+    - name : child
+      description: >
+          Number of children into the room
+      optional :No
+    - name : adult
+      description: >
+          Number of adult into the room
+      optional :No
+
+
+sample_url: search/hotel.php
+sample_request: |
+
+
+sample_response: |  
+    {
+       "success": true,
+       "data": [
+          {
+             "idHotel": "1",
+             "HotelName": "Hotel Relais Santo Stefanos",
+             "HotelDesc": "Un posto stupendos",
+             "HotelStar": "3",
+             "HotelLat": "45.516651",
+             "HotelLng": "8.074997",
+             "HotelAccessible": "1"
+          },
+          {
+             "idHotel": "4",
+             "HotelName": "test",
+             "HotelDesc": "yed",
+             "HotelStar": "4",
+             "HotelLat": "44.326726",
+             "HotelLng": "7.614726999999999",
+             "HotelAccessible": "0"
+          }
+       ],
+       "status": 200
+    }
+	
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":CODE
+    }

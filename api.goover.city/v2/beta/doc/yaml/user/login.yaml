@@ -19,24 +19,27 @@ parameters:
           The Password
       optional :No
 
-sample_url: user/auth.php
+sample_url: user/login.php
 sample_request: |
 
 
-sample_response: |  
+sample_response: |
 
-    {
-      "success":true,
-      "data":
-        {
-          "UserCode":"UserCode",
-          "UserName":"UserName",
-          "UserEmailVerify":0|1,
-          "UserToken":"UserToken"
-        },
-      "status":200
-    }
-	
+      {
+        "success":true,
+        "data":
+          {
+            "UserCode":"6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+            "UserName":"Amministrazione",
+            "UserEmailVerify":1,
+            "UserToken":"DJIJHFH_jT*j!JAYCy8fJkr_S#ASg]D53Q%)8Q}_lvHklc1GU6pO#8O((XLrv4BdNyEi!knqV$U)bxH$z!}_o7xD{9NY@#5M2*%)tbZFHR23}0.77934100 1566253684_[]@&6uwgG0bnWxIY(xuyVT#M8e]T!2yt6p1AqG8wG}Zo5o5GSHFHJIJE",
+            "isSuper":1,
+            "isAdmin":1
+          },
+        "status":200
+      }
+
+
 sample_error: |
 
     {

@@ -1,0 +1,63 @@
+
+---
+version: BETA v2.0.0
+rate_limited: Yes
+response_format: JSON
+authentication: None
+method: POST
+resource: hotel/type/get
+resource_url: hotel/type/get.php
+description: > 
+   Get all available types for hotels
+parameters:
+
+sample_url: hotel/type/get.php
+sample_request: |
+
+
+sample_response: |  
+    {
+       "success": true,
+       "data": [
+          {
+             "idType": 10,
+             "name": "Ristorante",
+             "isRoom": 0
+          },
+          {
+             "idType": 11,
+             "name": "Pub",
+             "isRoom": 0
+          },
+          {
+             "idType": 12,
+             "name": "Bar",
+             "isRoom": 0
+          },
+          {
+             "idType": 15,
+             "name": "WC",
+             "isRoom": 0
+          },
+          {
+             "idType": 16,
+             "name": "Doccia",
+             "isRoom": 1
+          },
+          {
+             "idType": 18,
+             "name": "Ospedale",
+             "isRoom": 0
+          }
+       ],
+       "status": 200
+    }
+
+
+sample_error: |
+
+    {
+      "success":false,
+      "data":null
+      "status":CODE
+    }

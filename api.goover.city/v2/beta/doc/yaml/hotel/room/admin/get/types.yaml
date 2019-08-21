@@ -20,7 +20,17 @@ sample_request: |
 
 
 sample_response: |
-
+    {
+       "success": true,
+       "data": [
+          {
+             "idType": 16,
+             "name": "Doccia",
+             "isSel": 1
+          }
+       ],
+       "status": 200
+    }
 
 sample_error: |
 
